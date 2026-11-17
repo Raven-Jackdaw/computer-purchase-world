@@ -2,6 +2,8 @@
 
 > 一台笔记本的暗黑选购指南：把 64 台学生笔记本变成可以逛的哥特世界——勾选条件，世界重排，选出你的那台。
 
+**🌐 在线试用：<https://raven-jackdaw.github.io/computer-purchase-world/>**
+
 ![世界视图](docs/screenshot-world.png)
 
 一个**单文件 Web 应用**（HTML + CSS + JS，零前端依赖），附带**可选的本地实时价格服务**（Node.js）。
