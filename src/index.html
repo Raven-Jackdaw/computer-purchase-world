@@ -1,0 +1,140 @@
+<!doctype html>
+<html lang="zh-CN" data-theme="dark">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>电脑购买大世界 · 一台笔记本的暗黑选购指南</title>
+<meta name="description" content="把市面主流学生笔记本变成一个可以逛的黑暗哥特世界：勾选条件，世界重排，选出你的那台。">
+<meta name="theme-color" content="#0a0908">
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' fill='%230a0908'/%3E%3Cpath d='M16 5l7 11-7 11-7-11z' fill='none' stroke='%23c8a45c' stroke-width='2'/%3E%3Ccircle cx='16' cy='16' r='2' fill='%239b2226'/%3E%3C/svg%3E">
+<style><!--STYLES--></style>
+</head>
+<body>
+<div class="grain" aria-hidden="true"></div>
+<div class="vignette" aria-hidden="true"></div>
+
+<header class="topbar">
+  <div class="brand">
+    <div class="brand-mark" aria-hidden="true"><span>⚔</span></div>
+    <div class="brand-text">
+      <h1>电脑购买大世界</h1>
+      <p class="brand-sub">一台笔记本的暗黑选购指南 · 数据采集 <span id="dataDate">—</span> · <span id="dataCount">—</span> 台在册</p>
+    </div>
+  </div>
+
+  <div class="topbar-tools">
+    <label class="search">
+      <span class="search-icon" aria-hidden="true">⌕</span>
+      <input id="search" type="search" placeholder="搜索型号 / 品牌 / 外号…" autocomplete="off" spellcheck="false">
+    </label>
+    <nav class="view-tabs" id="viewTabs" aria-label="视图切换">
+      <button data-view="world" class="active">世界</button>
+      <button data-view="rank">排行榜</button>
+      <button data-view="timeline">时间线</button>
+      <button data-view="guide">选购须知</button>
+    </nav>
+    <button id="liveBtn" class="live-btn" title="市场价状态">市场价 · 快照</button>
+    <button id="themeBtn" class="icon-btn" title="切换烛光 / 黑夜" aria-label="切换主题">☾</button>
+    <button id="filterToggle" class="icon-btn filter-toggle" title="筛选条件" aria-label="打开筛选">☰</button>
+  </div>
+</header>
+
+<main>
+  <!-- ============ 世界 ============ -->
+  <section class="view active" id="view-world">
+    <section class="banner" aria-hidden="true">
+      <canvas id="bannerCanvas"></canvas>
+      <div class="banner-copy">
+        <p class="banner-kicker">THE LAPTOP WORLD · 2026 冬</p>
+        <p class="banner-line">在四块大陆之间，找到属于你的那一台</p>
+      </div>
+    </section>
+    <section class="hero" id="hero" aria-label="本季格局"></section>
+
+    <div class="world-layout">
+      <aside class="filters" id="filters" aria-label="勾选条件"></aside>
+      <div class="map-col">
+        <div class="sortbar" id="sortbar" aria-label="排列方式"></div>
+        <section class="map" id="map" aria-label="电脑大世界地图"></section>
+      </div>
+    </div>
+  </section>
+
+  <!-- ============ 排行榜 ============ -->
+  <section class="view" id="view-rank">
+    <div class="page-head">
+      <h2>排行榜</h2>
+      <p class="page-sub">同一批机器，不同的看法。榜单分数由规格推导，可切换价位段与品类。</p>
+    </div>
+    <div class="rank-toolbar" id="rankToolbar"></div>
+    <div class="rank-body" id="rankBody"></div>
+  </section>
+
+  <!-- ============ 时间线 ============ -->
+  <section class="view" id="view-timeline">
+    <div class="page-head">
+      <h2>上市时间线</h2>
+      <p class="page-sub">按上市年月倒序。新机未必值，上代降价机常住性价比榜首。</p>
+    </div>
+    <div class="timeline-body" id="timelineBody"></div>
+  </section>
+
+  <!-- ============ 选购须知 ============ -->
+  <section class="view" id="view-guide">
+    <div class="page-head">
+      <h2>选购须知</h2>
+      <p class="page-sub">规格底线、避坑、购买时机与参数黑话。点开对照，别为用不上的参数买单。</p>
+    </div>
+    <div class="guide-body" id="guideBody"></div>
+  </section>
+</main>
+
+<footer class="statusbar">
+  <div class="statusbar-left" id="stats">—</div>
+  <div class="compare-tray" id="compareTray" hidden></div>
+</footer>
+
+<!-- 详情抽屉 -->
+<div class="drawer" id="detailDrawer" hidden aria-modal="true" role="dialog">
+  <div class="drawer-backdrop" data-close="detail"></div>
+  <div class="drawer-panel" id="detailPanel"></div>
+</div>
+
+<!-- 对比弹层 -->
+<div class="modal" id="compareModal" hidden aria-modal="true" role="dialog">
+  <div class="modal-backdrop" data-close="compare"></div>
+  <div class="modal-panel" id="comparePanel"></div>
+</div>
+
+<!-- 开场：守夜人 -->
+<div class="greet" id="greet" hidden aria-modal="true" role="dialog" aria-labelledby="greetName">
+  <div class="greet-backdrop" data-close="greet"></div>
+  <div class="greet-panel">
+    <button class="greet-close" data-close="greet" aria-label="关闭">✕</button>
+    <div class="greet-portrait">
+      <div class="greet-candle" aria-hidden="true"></div>
+      <div class="greet-arch">
+        <img id="greetAvatar" alt="Raven·Jackdaw 的头像">
+      </div>
+      <div class="greet-seal" aria-hidden="true">✦</div>
+    </div>
+    <div class="greet-body">
+      <p class="greet-kicker">THE KEEPER · 守夜人</p>
+      <h2 class="greet-name" id="greetName">Raven<span>·</span>Jackdaw</h2>
+      <p class="greet-line">乐意为您服务</p>
+      <p class="greet-desc">欢迎来到《电脑购买大世界》。<br>六十四台学生笔记本、四块大陆、九条榜单，都已备好。<br>勾选你的条件，世界会为你重排。</p>
+      <div class="greet-actions">
+        <button class="btn primary" id="greetEnter">进入世界</button>
+      </div>
+      <p class="greet-foot">数据采集 2026-11-17 · 价格仅供参考 · 点左上角徽记可再看一次</p>
+    </div>
+  </div>
+</div>
+
+<!-- 轻提示 -->
+<div class="toast" id="toast" hidden></div>
+
+<script><!--DATA--></script>
+<script><!--SCRIPTS--></script>
+</body>
+</html>

@@ -1,0 +1,1613 @@
+{
+  "updatedAt": "2026-11-17T06:52:49.767Z",
+  "total": 64,
+  "refreshed": 46,
+  "failed": 18,
+  "items": [
+    {
+      "laptopId": "honor-x16-2026-fight-edition",
+      "searchKeyword": "荣耀X16",
+      "offers": [
+        {
+          "platform": "天猫",
+          "storeType": "天猫店铺",
+          "storeName": null,
+          "price": 3909,
+          "priceKind": "活动价",
+          "priceNote": "原价5299元，店铺优惠200元，叠加满5000-500消费券，部分地区可领15%国补，实付到手3909.2元。 ...",
+          "publishedAt": "2026-10-28",
+          "stale": false,
+          "url": "https://detail.tmall.com/item.htm?id=1042707402747",
+          "evidenceUrl": "https://guangdiu.com/detail.php?id=30238122",
+          "services": [
+            "国补"
+          ],
+          "status": "部分待核实",
+          "_matchedTitle": "今日必买：荣耀 笔记本 X16 2026款（i5-13420H、16GB、512GB）笔记本电脑 3909.2元",
+          "_matchScore": 11
+        },
+        {
+          "platform": "京东",
+          "storeType": "京东自营",
+          "storeName": null,
+          "price": 4078,
+          "priceKind": "到手价",
+          "priceNote": "京东此款目前活动售价4798元，参与国家补贴减719.7元优惠活动，下单1件，实付低至4078.3元。 可用券及活动：国家补贴、国家补贴71 ...",
+          "publishedAt": "2026-10-13",
+          "stale": false,
+          "url": "go.php?id=29956650",
+          "evidenceUrl": "https://guangdiu.com/detail.php?id=29956650",
+          "services": [
+            "国补"
+          ],
+          "status": "部分待核实",
+          "_matchedTitle": "荣耀 笔记本X16 战斗版 焕新版 13代酷睿 16G 512G 16吋护眼屏 轻薄电脑 灰 4078.3",
+          "_matchScore": 7.5
+        }
+      ]
+    },
+    {
+      "laptopId": "honor-x14-2025",
+      "searchKeyword": "荣耀X14 2025 1TB",
+      "offers": [
+        {
+          "platform": "京东",
+          "storeType": "京东自营",
+          "storeName": null,
+          "price": 3039,
+          "priceKind": "活动价",
+          "priceNote": "",
+          "publishedAt": "2025-02-06",
+          "stale": true,
+          "url": "go.php?id=21285172",
+          "evidenceUrl": "https://guangdiu.com/detail.php?id=21285172",
+          "services": [
+            "国补"
+          ],
+          "status": "部分待核实",
+          "_matchedTitle": "国家补贴、限地区：荣耀 HONOR X14 2025战斗版 14英寸轻薄本（i5-13420H、16GB、1TB",
+          "_matchScore": 11
+        }
+      ]
+    },
+    {
+      "laptopId": "honor-x14-plus-2025",
+      "searchKeyword": "荣耀X14 Plus",
+      "offers": [
+        {
+          "platform": "京东",
+          "storeType": "京东自营",
+          "storeName": null,
+          "price": 3738,
+          "priceKind": "到手价",
+          "priceNote": "京东现售价4398元，支付另享政府补贴立减659.7元，实付到手价3738.3元。 ...",
+          "publishedAt": "2026-08-20",
+          "stale": true,
+          "url": "go.php?id=29060279",
+          "evidenceUrl": "https://guangdiu.com/detail.php?id=29060279",
+          "services": [
+            "国补"
+          ],
+          "status": "部分待核实",
+          "_matchedTitle": "荣耀 X14 Plus （Core5-220H 16G+512G 高色域）灰 3738.3元",
+          "_matchScore": 7.5
+        },
+        {
+          "platform": "天猫",
+          "storeType": "天猫店铺",
+          "storeName": null,
+          "price": 3357,
+          "priceKind": "到手价",
+          "priceNote": "天猫超市此款目前活动售价5299元，参与立减950元，国家补贴15%优惠活动，下单1件，用88VIP消费券4000-400，实付低至3356.65元。有淘金 ...",
+          "publishedAt": "2026-08-05",
+          "stale": true,
+          "url": "https://detail.tmall.com/item.htm?id=1021445238330",
+          "evidenceUrl": "https://guangdiu.com/detail.php?id=28794369",
+          "services": [
+            "国补",
+            "88VIP"
+          ],
+          "status": "部分待核实",
+          "_matchedTitle": "88VIP：荣耀 笔记本X14 Plus AI全能轻薄笔记本 Core 5 220H、16G、512G、高分护眼屏 ",
+          "_matchScore": 7.5
+        }
+      ]
+    },
+    {
+      "laptopId": "honor-x16-plus-2025",
+      "searchKeyword": "荣耀X16 Plus",
+      "offers": [
+        {
+          "platform": "京东",
+          "storeType": "京东自营",
+          "storeName": null,
+          "price": 3919,
+          "priceKind": "到手价",
+          "priceNote": "京东此款目前活动售价4899元，参与补贴20%起减979.8元优惠活动，下单1件，实付低至3919.2元。 可用券及活动：20%起减979.8元 ...",
+          "publishedAt": "2025-09-21",
+          "stale": true,
+          "url": "go.php?id=23542891",
+          "evidenceUrl": "https://guangdiu.com/detail.php?id=23542891",
+          "services": [],
+          "status": "部分待核实",
+          "_matchedTitle": "荣耀 HONOR X16 Plus 2025 16英寸 轻薄本（Core5-220H、16GB、1TB、2.5K） 3919.2元",
+          "_matchScore": 9
+        }
+      ]
+    },
+    {
+      "laptopId": "wiko-hi-matebook-d14-2025",
+      "searchKeyword": "MateBook D 14 210H",
+      "offers": [
+        {
+          "platform": "天猫",
+          "storeType": "天猫店铺",
+          "storeName": null,
+          "price": 4499,
+          "priceKind": "活动价",
+          "priceNote": "天猫本款商品售价5999元，使用页面商品1500元券，最终到手仅需4499元。华为智选，感受科技之美。 ...",
+          "publishedAt": "2025-07-07",
+          "stale": true,
+          "url": "https://detail.tmall.com/item.htm?id=915959043659",
+          "evidenceUrl": "https://guangdiu.com/detail.php?id=22309882",
+          "services": [],
+          "status": "部分待核实",
+          "_matchedTitle": "华为智选 WIKO Hi MateBook D 14 笔记本电脑（Core 5-210H、16GB+1TB）皓月银 4499元包",
+          "_matchScore": 7.5
+        }
+      ]
+    },
+    {
+      "laptopId": "hp-zhan66-gen7-ryzen-14",
+      "searchKeyword": "战66 七代 锐龙",
+      "offers": [],
+      "note": "本次刷新未匹配到同配置活动价，保留上次结果"
+    },
+    {
+      "laptopId": "lenovo-xiaoxin-14-2025",
+      "searchKeyword": "小新14 24G",
+      "offers": [
+        {
+          "platform": "京东",
+          "storeType": "京东自营",
+          "storeName": null,
+          "price": 3909,
+          "priceKind": "到手价",
+          "priceNote": "京东此款目前活动售价4599元，下单1件，实付低至3909元。 可用券及活动：立减:690 ...",
+          "publishedAt": "2026-03-15",
+          "stale": true,
+          "url": "go.php?id=26351490",
+          "evidenceUrl": "https://guangdiu.com/detail.php?id=26351490",
+          "services": [],
+          "status": "部分待核实",
+          "_matchedTitle": "联想 小新14 2025高性能轻薄本酷睿标压办公 I5-13420H/24G/512G/深灰 SE+游戏鼠标",
+          "_matchScore": 9.5
+        },
+        {
+          "platform": "天猫",
+          "storeType": "天猫店铺",
+          "storeName": null,
+          "price": 3229,
+          "priceKind": "到手价",
+          "priceNote": "天猫精选此款目前活动售价4799元，领2000-200消费券，参与立减800元优惠活动，下单1件，国补立减15%（限地区）实付低至3229.15元。— ...",
+          "publishedAt": "2026-02-26",
+          "stale": true,
+          "url": "https://detail.tmall.com/item.htm?id=742388384974",
+          "evidenceUrl": "https://guangdiu.com/detail.php?id=26087572",
+          "services": [
+            "国补"
+          ],
+          "status": "部分待核实",
+          "_matchedTitle": "联想 小新14 酷睿标压i5-13420H 24G 512G IPS 高色域屏 3229.15元",
+          "_matchScore": 9.5
+        }
+      ]
+    },
+    {
+      "laptopId": "hp-zhan66-2025-ryzen-14",
+      "searchKeyword": "惠普战66",
+      "offers": [
+        {
+          "platform": "京东",
+          "storeType": "京东自营",
+          "storeName": null,
+          "price": 9146,
+          "priceKind": "到手价",
+          "priceNote": "京东现售价10699元，PLUS专享立减53.49元，支付另享政府补贴立减1500元，实付到手价9145.51元。 购买方案 1加购【战66 14英寸（锐龙7 ...",
+          "publishedAt": "2026-11-06",
+          "stale": false,
+          "url": "go.php?id=30435135",
+          "evidenceUrl": "https://guangdiu.com/detail.php?id=30435135",
+          "services": [
+            "国补",
+            "PLUS会员"
+          ],
+          "status": "待核实",
+          "_matchedTitle": "惠普 战66 14英寸（锐龙7 450、16GB、1TB、2.5K） 笔记本电脑 9145.51元",
+          "_matchScore": 6,
+          "sanityFlag": true
+        }
+      ],
+      "note": "抓到的活动价与参考价偏差较大，可能不是同一配置，已标「待核实」"
+    },
+    {
+      "laptopId": "lenovo-zhaoyang-x5-14-abp",
+      "searchKeyword": "昭阳X5-14",
+      "offers": [],
+      "note": "本次刷新未匹配到同配置活动价，保留上次结果"
+    },
+    {
+      "laptopId": "machenike-chuangwuzhe-15n-ryzen",
+      "searchKeyword": "创物者15N 7735H",
+      "offers": [],
+      "note": "本次刷新未匹配到同配置活动价，保留上次结果"
+    },
+    {
+      "laptopId": "machenike-shuguang-16-air",
+      "searchKeyword": "曙光16 Air",
+      "offers": [],
+      "note": "本次刷新未匹配到同配置活动价，保留上次结果"
+    },
+    {
+      "laptopId": "asus-poxiao-6-14",
+      "searchKeyword": "破晓6 1TB",
+      "offers": [
+        {
+          "platform": "京东",
+          "storeType": "京东自营",
+          "storeName": null,
+          "price": 4089,
+          "priceKind": "活动价",
+          "priceNote": "",
+          "publishedAt": "2025-02-27",
+          "stale": true,
+          "url": "go.php?id=21457431",
+          "evidenceUrl": "https://guangdiu.com/detail.php?id=21457431",
+          "services": [],
+          "status": "部分待核实",
+          "_matchedTitle": "华硕 ASUS 破晓6 酷睿14英寸轻薄商务商用办公指纹识别笔记本电脑（i5-13500H 16",
+          "_matchScore": 6.5
+        }
+      ]
+    },
+    {
+      "laptopId": "honor-x16-ryzen-2026",
+      "searchKeyword": "荣耀X16 锐龙版 2026",
+      "offers": [
+        {
+          "platform": "京东",
+          "storeType": "京东自营",
+          "storeName": null,
+          "price": 2805,
+          "priceKind": "到手价",
+          "priceNote": "京东自营该商品目前售价3299元，可领取满1元享9折优惠券立减329.9元，PLUS会员立减16.49元，政府补贴立减147.63元，到手价低至2804.98元 ...",
+          "publishedAt": "2025-11-06",
+          "stale": true,
+          "url": "go.php?id=24338186",
+          "evidenceUrl": "https://guangdiu.com/detail.php?id=24338186",
+          "services": [
+            "国补",
+            "PLUS会员"
+          ],
+          "status": "部分待核实",
+          "_matchedTitle": "荣耀 HONOR X16 锐龙版 2026 16英寸笔记本电脑（锐龙7 7735HS、16GB、512GB） 2804.98",
+          "_matchScore": 7.5
+        }
+      ]
+    },
+    {
+      "laptopId": "acer-feifan-go-pro-2023",
+      "searchKeyword": "非凡Go Pro 13500H",
+      "offers": [
+        {
+          "platform": "京东",
+          "storeType": "京东第三方",
+          "storeName": null,
+          "price": 3314,
+          "priceKind": "券后价",
+          "priceNote": "\"灰色铝合金机身，有指纹识别，能扩展加装内存条和硬盘。而且还支持插网线。这台电脑性能拉满，接口拉满，功能全，屏幕强大 ...",
+          "publishedAt": "2026-02-24",
+          "stale": true,
+          "url": "go.php?id=26061900",
+          "evidenceUrl": "https://guangdiu.com/detail.php?id=26061900",
+          "services": [],
+          "status": "部分待核实",
+          "_matchedTitle": "宏碁 26年：宏碁非凡Go Pro 13代i5-13500H/2.8K超高分辨率/高刷120Hz 16G+1T官方标配",
+          "_matchScore": 9.5
+        },
+        {
+          "platform": "拼多多",
+          "storeType": "拼多多百亿补贴",
+          "storeName": null,
+          "price": 3687,
+          "priceKind": "活动价",
+          "priceNote": "",
+          "publishedAt": "2024-09-29",
+          "stale": true,
+          "url": "go.php?id=20154280",
+          "evidenceUrl": "https://guangdiu.com/detail.php?id=20154280",
+          "services": [],
+          "status": "部分待核实",
+          "_matchedTitle": "acer 宏碁 非凡Go Pro 14英寸笔记本电脑（i5-13500H、16GB、1TB） 3687元",
+          "_matchScore": 9.5
+        }
+      ]
+    },
+    {
+      "laptopId": "hasee-zhanshen-s8-da5ns",
+      "searchKeyword": "战神S8 DA5NS",
+      "offers": [
+        {
+          "platform": "拼多多",
+          "storeType": "拼多多百亿补贴",
+          "storeName": null,
+          "price": 4298,
+          "priceKind": "到手价",
+          "priceNote": "i5-12450H+RTX 3060 6G，双显三模，配备144Hz电竞屏~拼多多此款目前活动售价4299元，下单立减1元，到手价4298元，近期好价，感兴趣的值友可以 ...",
+          "publishedAt": "2023-04-29",
+          "stale": true,
+          "url": "go.php?id=15784367",
+          "evidenceUrl": "https://guangdiu.com/detail.php?id=15784367",
+          "services": [],
+          "status": "部分待核实",
+          "_matchedTitle": "百亿补贴：Hasee 神舟 战神S8-DA5NS 15.6英寸笔记本电脑（i5-12450H、16GB、512GB SSD",
+          "_matchScore": 11.5
+        },
+        {
+          "platform": "京东",
+          "storeType": "京东自营",
+          "storeName": null,
+          "price": 5599,
+          "priceKind": "活动价",
+          "priceNote": "",
+          "publishedAt": "2023-04-09",
+          "stale": true,
+          "url": "go.php?id=15623889",
+          "evidenceUrl": "https://guangdiu.com/detail.php?id=15623889",
+          "services": [],
+          "status": "部分待核实",
+          "_matchedTitle": "Hasee 神舟 战神S8-DA5NS 15.6英寸笔记本电脑（i5-12450H、16GB、512GB SSD、RTX3060、144",
+          "_matchScore": 11.5
+        }
+      ]
+    },
+    {
+      "laptopId": "mechrevo-jiaolong-15k",
+      "searchKeyword": "蛟龙15K 7435H",
+      "offers": [],
+      "note": "本次刷新未匹配到同配置活动价，保留上次结果"
+    },
+    {
+      "laptopId": "hp-xingbook-air-14-2026",
+      "searchKeyword": "惠普星Book Air 14 2026",
+      "offers": [
+        {
+          "platform": "京东",
+          "storeType": "京东自营",
+          "storeName": null,
+          "price": 3905,
+          "priceKind": "到手价",
+          "priceNote": "京东此款目前活动售价5198元，下单领取满501减500元优惠券，国补优惠689元，下单1件，实付低至3904.94元。 购买方案 1领券满501减500 ...",
+          "publishedAt": "2026-11-11",
+          "stale": false,
+          "url": "go.php?id=30547721",
+          "evidenceUrl": "https://guangdiu.com/detail.php?id=30547721",
+          "services": [
+            "国补"
+          ],
+          "status": "部分待核实",
+          "_matchedTitle": "惠普 星Book Air 14（酷睿5 320、16GB、512GB、OLED） 笔记本电脑 3904.94元（需用券",
+          "_matchScore": 7.5
+        },
+        {
+          "platform": "苏宁易购",
+          "storeType": "未知",
+          "storeName": null,
+          "price": 4929,
+          "priceKind": "券后价",
+          "priceNote": "领券600 国补15% 购买方案 1领券满3000减100元 2026年11月11日13点53分起可用 2加购【星Book Air 14轻薄笔记本电脑(酷睿5 16G 512G)粉】 1件 3 ...",
+          "publishedAt": "2026-11-11",
+          "stale": false,
+          "url": "go.php?id=30540385",
+          "evidenceUrl": "https://guangdiu.com/detail.php?id=30540385",
+          "services": [
+            "国补"
+          ],
+          "status": "部分待核实",
+          "_matchedTitle": "惠普 星Book Air 14轻薄笔记本电脑(酷睿5 16G 512G)粉 4929.15元（需用券）",
+          "_matchScore": 7.5
+        }
+      ]
+    },
+    {
+      "laptopId": "hp-zhan66-air-14-2026",
+      "searchKeyword": "惠普战66 Air 14 2026",
+      "offers": [
+        {
+          "platform": "京东",
+          "storeType": "京东自营",
+          "storeName": null,
+          "price": 4997,
+          "priceKind": "到手价",
+          "priceNote": "京东此款目前活动售价5999元，下单1件，实付低至4997.17元。 购买方案 1加购【战66 Air 14英寸 轻薄办公笔记本电脑3代酷睿Core5 320 16G ...",
+          "publishedAt": "2026-11-09",
+          "stale": false,
+          "url": "go.php?id=30486205",
+          "evidenceUrl": "https://guangdiu.com/detail.php?id=30486205",
+          "services": [],
+          "status": "部分待核实",
+          "_matchedTitle": "惠普 战66 Air 14英寸 轻薄办公笔记本电脑3代酷睿Core5 320 16G 512SSD 2.8K OLED屏 499",
+          "_matchScore": 6
+        }
+      ]
+    },
+    {
+      "laptopId": "dell-14s-2026",
+      "searchKeyword": "戴尔 14S 2026",
+      "offers": [],
+      "note": "本次刷新未匹配到同配置活动价，保留上次结果"
+    },
+    {
+      "laptopId": "mechrevo-wujie14-max-carbon-2026",
+      "searchKeyword": "机械革命无界14 Max Carbon 2026",
+      "offers": [
+        {
+          "platform": "京东",
+          "storeType": "京东自营",
+          "storeName": null,
+          "price": 5327,
+          "priceKind": "到手价",
+          "priceNote": "京东现售价6299元，PLUS专享立减31.49元，支付另享政府补贴立减940.13元，实付到手价5327.38元。 购买方案 1加购【无界14 Max Carbon（ ...",
+          "publishedAt": "2026-11-04",
+          "stale": false,
+          "url": "go.php?id=30393002",
+          "evidenceUrl": "https://guangdiu.com/detail.php?id=30393002",
+          "services": [
+            "国补",
+            "PLUS会员"
+          ],
+          "status": "部分待核实",
+          "_matchedTitle": "机械革命 无界14 Max Carbon（酷睿Ultra5 226V、16GB、1TB、2.8K） 笔记本电脑 5327.38",
+          "_matchScore": 9.5
+        }
+      ]
+    },
+    {
+      "laptopId": "redmi-book-16-2027",
+      "searchKeyword": "Redmi Book 16 2027",
+      "offers": [
+        {
+          "platform": "京东",
+          "storeType": "京东自营",
+          "storeName": null,
+          "price": 5949,
+          "priceKind": "到手价",
+          "priceNote": "11月3日10点0分开始 原价6999元，部分地区支持15%国补，到手价5949.15元，下单送价值299元小米充电宝。 购买方案 1加购【RedmiBook 16 202 ...",
+          "publishedAt": "2026-10-29",
+          "stale": false,
+          "url": "go.php?id=30264763",
+          "evidenceUrl": "https://guangdiu.com/detail.php?id=30264763",
+          "services": [
+            "国补"
+          ],
+          "status": "部分待核实",
+          "_matchedTitle": "3日10点、国家补贴：小米 RedmiBook 16 2027款（C5-320、16GB、512GB） 笔记本电脑 59",
+          "_matchScore": 7.5
+        }
+      ]
+    },
+    {
+      "laptopId": "asus-zenbook-14-2026-snapdragon",
+      "searchKeyword": "华硕灵耀14 2026 骁龙版",
+      "offers": [],
+      "note": "本次刷新未匹配到同配置活动价，保留上次结果"
+    },
+    {
+      "laptopId": "wiko-hi-matebook-d-14-ryzen-2026",
+      "searchKeyword": "WIKO Hi MateBook D 14 锐龙版 2026",
+      "offers": [],
+      "note": "本次刷新未匹配到同配置活动价，保留上次结果"
+    },
+    {
+      "laptopId": "asus-adol-14-air-2026",
+      "searchKeyword": "华硕 a豆14 Air 2026",
+      "offers": [
+        {
+          "platform": "天猫",
+          "storeType": "天猫店铺",
+          "storeName": null,
+          "price": 4929,
+          "priceKind": "活动价",
+          "priceNote": "原价9999元，喵速达直降3300元，国家补贴869.85元，限时限量补贴300元，家电数码消费券500元，教育优惠100元，叠加88VIP券后价4929.15元 ...",
+          "publishedAt": "2026-11-03",
+          "stale": false,
+          "url": "https://detail.tmall.com/item.htm?id=1083377298316",
+          "evidenceUrl": "https://guangdiu.com/detail.php?id=30367777",
+          "services": [
+            "国补",
+            "学生认证",
+            "88VIP"
+          ],
+          "status": "部分待核实",
+          "_matchedTitle": "华硕 a豆 14 Air（锐龙 9 270、16G、512G、鸢尾花紫） 4929.15元",
+          "_matchScore": 6
+        },
+        {
+          "platform": "京东",
+          "storeType": "京东第三方",
+          "storeName": null,
+          "price": 5082,
+          "priceKind": "到手价",
+          "priceNote": "京东此款目前活动售价6779元，下单领取满5980减800元优惠券，参与国家补贴减896.83元优惠活动，下单1件，实付低至5082.1元。 购买方 ...",
+          "publishedAt": "2026-11-12",
+          "stale": false,
+          "url": "go.php?id=30563075",
+          "evidenceUrl": "https://guangdiu.com/detail.php?id=30563075",
+          "services": [
+            "国补"
+          ],
+          "status": "部分待核实",
+          "_matchedTitle": "华硕 a豆14 Air 2026 高性能AI超轻薄笔记本电脑 学生优惠办公商务本 高刷超亮",
+          "_matchScore": 4.5
+        }
+      ]
+    },
+    {
+      "laptopId": "mechrevo-wujie15x-blizzard-2026",
+      "searchKeyword": "机械革命无界15X 暴风雪电竞版 2026",
+      "offers": [],
+      "note": "本次刷新未匹配到同配置活动价，保留上次结果"
+    },
+    {
+      "laptopId": "asus-vivobook-s16-2026",
+      "searchKeyword": "华硕无畏16 锐龙版 2026",
+      "offers": [
+        {
+          "platform": "京东",
+          "storeType": "京东自营",
+          "storeName": null,
+          "price": 4482,
+          "priceKind": "到手价",
+          "priceNote": "国家补贴领后减￥790.87，PLUS专享立减26.49元，到手价4481.64元。 ...",
+          "publishedAt": "2026-05-15",
+          "stale": true,
+          "url": "go.php?id=27340985",
+          "evidenceUrl": "https://guangdiu.com/detail.php?id=27340985",
+          "services": [
+            "国补",
+            "PLUS会员"
+          ],
+          "status": "部分待核实",
+          "_matchedTitle": "华硕 无畏16 2026锐龙版AI超轻薄本（标压锐龙7 8845H、16GB、1T、2.5K 144Hz高刷亮",
+          "_matchScore": 4.5
+        }
+      ]
+    },
+    {
+      "laptopId": "honor-magicbook-pro-16-geek-2026",
+      "searchKeyword": "荣耀 MagicBook Pro 16 极客版 2026",
+      "offers": [
+        {
+          "platform": "天猫",
+          "storeType": "天猫店铺",
+          "storeName": null,
+          "price": 6047,
+          "priceKind": "活动价",
+          "priceNote": "该价格商品规格：颜色分类：星辰灰+英特尔 酷睿 Ultra5 125H+核芯显卡+3120x2080像素+120Hz+14.6英寸；硬盘容量：512GB；内存容量：16GB；套 ...",
+          "publishedAt": "2026-11-14",
+          "stale": false,
+          "url": "https://detail.tmall.com/item.htm?id=863881498074",
+          "evidenceUrl": "https://guangdiu.com/detail.php?id=30596493",
+          "services": [],
+          "status": "部分待核实",
+          "_matchedTitle": "移动端：荣耀 MagicBook Pro 14 二代酷睿Ultra版 14.6英寸 轻薄本 6047.04元（淘金币",
+          "_matchScore": 9.5
+        },
+        {
+          "platform": "京东",
+          "storeType": "京东自营",
+          "storeName": null,
+          "price": 4393,
+          "priceKind": "到手价",
+          "priceNote": "京东此款目前活动售价6199元，plus减30.99，下单领取满500-1000优惠券，参与国家补贴15%优惠活动，下单1件，实付低至4392.81元。京东3c ...",
+          "publishedAt": "2026-11-10",
+          "stale": false,
+          "url": "go.php?id=30518507",
+          "evidenceUrl": "https://guangdiu.com/detail.php?id=30518507",
+          "services": [
+            "国补"
+          ],
+          "status": "部分待核实",
+          "_matchedTitle": "荣耀 MagicBook Pro 14 极客版 92Wh（U5-125H、16GB、512GB） 笔记本电脑 4392.81元（需",
+          "_matchScore": 6
+        }
+      ]
+    },
+    {
+      "laptopId": "mechrevo-wujie14-max-2026",
+      "searchKeyword": "机械革命无界14 Max 2026",
+      "offers": [
+        {
+          "platform": "京东",
+          "storeType": "京东自营",
+          "storeName": null,
+          "price": 4879,
+          "priceKind": "到手价",
+          "priceNote": "京东此款目前活动售价5769元，参与国家补贴减861.02元，PLUS专享95折减28.84元优惠活动，下单1件，实付低至4879.14元。 购买方案 1国 ...",
+          "publishedAt": "2026-11-11",
+          "stale": false,
+          "url": "go.php?id=30537748",
+          "evidenceUrl": "https://guangdiu.com/detail.php?id=30537748",
+          "services": [
+            "国补",
+            "PLUS会员"
+          ],
+          "status": "部分待核实",
+          "_matchedTitle": "机械革命 无界14 Max (酷睿Ultra5 226V 16G 1T 2.8K 120Hz 灰)办公笔记本电脑轻薄游戏",
+          "_matchScore": 9.5
+        }
+      ]
+    },
+    {
+      "laptopId": "mechrevo-wujie16-max-2026",
+      "searchKeyword": "机械革命无界16 Max 2026",
+      "offers": [],
+      "note": "本次刷新未匹配到同配置活动价，保留上次结果"
+    },
+    {
+      "laptopId": "mechrevo-kuangshi16-2026",
+      "searchKeyword": "机械革命旷世16 2026",
+      "offers": [
+        {
+          "platform": "天猫",
+          "storeType": "天猫店铺",
+          "storeName": null,
+          "price": 9399,
+          "priceKind": "券后价",
+          "priceNote": "天猫精选此款目前活动售价11699元，下单领取5000减500家电数码消费券，官方补贴300元优惠，参与补贴15%起减1754.85元优惠活动，下单1 ...",
+          "publishedAt": "2026-08-19",
+          "stale": true,
+          "url": "https://detail.tmall.com/item.htm?id=923369564830",
+          "evidenceUrl": "https://guangdiu.com/detail.php?id=29032514",
+          "services": [],
+          "status": "待核实",
+          "_matchedTitle": "机械革命 旷世X C7-245HX RTX5070 2.5K 16英寸 16G 1TB 2026款独显电竞游戏本笔记本电",
+          "_matchScore": 4.5,
+          "sanityFlag": true
+        }
+      ],
+      "note": "抓到的活动价与参考价偏差较大，可能不是同一配置，已标「待核实」"
+    },
+    {
+      "laptopId": "huoying-t5a-2026",
+      "searchKeyword": "火影 T5A 2026",
+      "offers": [],
+      "note": "本次刷新未匹配到同配置活动价，保留上次结果"
+    },
+    {
+      "laptopId": "lecoo-gt16-2026",
+      "searchKeyword": "联想来酷 GT16 2026",
+      "offers": [],
+      "note": "本次刷新未匹配到同配置活动价，保留上次结果"
+    },
+    {
+      "laptopId": "colorful-yinxing-p15-panda-2026",
+      "searchKeyword": "七彩虹隐星P15 熊猫本 2026",
+      "offers": [],
+      "note": "本次刷新未匹配到同配置活动价，保留上次结果"
+    },
+    {
+      "laptopId": "lenovo-erazer-u126-2026",
+      "searchKeyword": "联想异能者 U126 二合一 2026",
+      "offers": [],
+      "note": "本次刷新未匹配到同配置活动价，保留上次结果"
+    },
+    {
+      "laptopId": "hp-omen-11-2025-i7-14650hx",
+      "searchKeyword": "暗影精灵11",
+      "offers": [
+        {
+          "platform": "京东",
+          "storeType": "京东自营",
+          "storeName": null,
+          "price": 6990,
+          "priceKind": "到手价",
+          "priceNote": "京东此款目前活动售价9299元，下单领取满5980减500元优惠券，按照以上优惠，下单1件，实付低至6990.4元。 可用券及活动：满5980减50 ...",
+          "publishedAt": "2026-10-28",
+          "stale": false,
+          "url": "go.php?id=30237553",
+          "evidenceUrl": "https://guangdiu.com/detail.php?id=30237553",
+          "services": [],
+          "status": "部分待核实",
+          "_matchedTitle": "惠普 暗影精灵11 i7-14650HX RTX5060 16GB+1TB 游戏台式机 6990.4元（需用券）",
+          "_matchScore": 11.5
+        }
+      ]
+    },
+    {
+      "laptopId": "hasee-zhan-shen-t8-pro-2025",
+      "searchKeyword": "战神T8",
+      "offers": [
+        {
+          "platform": "京东",
+          "storeType": "京东自营",
+          "storeName": null,
+          "price": 8450,
+          "priceKind": "活动价",
+          "priceNote": "神舟（HASEE）【RTX5060】战神T8 16英寸游戏本笔记本电脑(i7-14700HX 16G 1TB 180HZ)。京东此款目前活动售价9999元，参与补贴15%起减500元优惠 ...",
+          "publishedAt": "2026-09-28",
+          "stale": false,
+          "url": "go.php?id=29715421",
+          "evidenceUrl": "https://guangdiu.com/detail.php?id=29715421",
+          "services": [],
+          "status": "部分待核实",
+          "_matchedTitle": "神舟 战神T8 16英寸游戏本笔记本电脑(i7-14700HX 16G 1TB 180HZ) 8449.86元",
+          "_matchScore": 11.5
+        }
+      ]
+    },
+    {
+      "laptopId": "asus-tianxuan-5-ryzen-r7-8845h",
+      "searchKeyword": "天选5 8845H",
+      "offers": [],
+      "note": "本次刷新未匹配到同配置活动价，保留上次结果"
+    },
+    {
+      "laptopId": "mechrevo-jiaolong-16pro-2025",
+      "searchKeyword": "蛟龙16 Pro RTX5060",
+      "offers": [
+        {
+          "platform": "京东",
+          "storeType": "京东第三方",
+          "storeName": null,
+          "price": 8399,
+          "priceKind": "到手价",
+          "priceNote": "京东该商品正在促销，领取满4980减300元优惠券，最终到手价8399元/件，喜欢可入。 可用券及活动：满4980减300元 ...",
+          "publishedAt": "2026-10-09",
+          "stale": false,
+          "url": "go.php?id=29885695",
+          "evidenceUrl": "https://guangdiu.com/detail.php?id=29885695",
+          "services": [],
+          "status": "部分待核实",
+          "_matchedTitle": "机械革命 蛟龙 16 Pro 16英寸 灰色 笔记本电脑（锐龙7 H 255、RTX5060、32GB、2560*1",
+          "_matchScore": 5
+        }
+      ]
+    },
+    {
+      "laptopId": "machenike-shuguang-16s",
+      "searchKeyword": "曙光16S",
+      "offers": [
+        {
+          "platform": "京东",
+          "storeType": "京东自营",
+          "storeName": null,
+          "price": 8286,
+          "priceKind": "活动价",
+          "priceNote": "PLUS立减49.99元，满3980减200元，国家补贴云闪付减1462.2元。AMD锐龙7 7745HX处理器，RTX5050显卡，2.5K 180Hz 500nit屏，16GB+1TB存储，双烤180W。 ...",
+          "publishedAt": "2026-10-28",
+          "stale": false,
+          "url": "go.php?id=30239509",
+          "evidenceUrl": "https://guangdiu.com/detail.php?id=30239509",
+          "services": [
+            "国补",
+            "PLUS会员"
+          ],
+          "status": "部分待核实",
+          "_matchedTitle": "曙光16S 8285.81元包邮",
+          "_matchScore": 7.5
+        },
+        {
+          "platform": "天猫",
+          "storeType": "天猫店铺",
+          "storeName": null,
+          "price": 7224,
+          "priceKind": "活动价",
+          "priceNote": "天猫精选此款目前活动售价9799元，参与立减300元，限时限量减200元，国家补贴减1274.81元，88VIP家电数码消费券满8000元减800元优惠活 ...",
+          "publishedAt": "2026-10-21",
+          "stale": false,
+          "url": "https://detail.tmall.com/item.htm?id=921462145981",
+          "evidenceUrl": "https://guangdiu.com/detail.php?id=30118752",
+          "services": [
+            "国补",
+            "88VIP"
+          ],
+          "status": "部分待核实",
+          "_matchedTitle": "机械师 曙光16S青春版 锐龙7 H 255 RTX5060/5050 16英寸学生电竞游戏本笔记本电脑",
+          "_matchScore": 6.5
+        }
+      ]
+    },
+    {
+      "laptopId": "lecoo-douzhanzhe-zhan7000-2025",
+      "searchKeyword": "战7000 5060",
+      "offers": [],
+      "note": "本次刷新未匹配到同配置活动价，保留上次结果"
+    },
+    {
+      "laptopId": "apple-macbook-air-13-2025-m4",
+      "searchKeyword": "MacBook Air 13 M4",
+      "offers": [
+        {
+          "platform": "京东",
+          "storeType": "京东自营",
+          "storeName": null,
+          "price": 6484,
+          "priceKind": "到手价",
+          "priceNote": "京东此款目前活动售价8169元，下单领取满3000减500元优惠券，参与Plus立减40.84，国补15%优惠活动，下单1件，实付低至6483.94元。 可 ...",
+          "publishedAt": "2026-06-14",
+          "stale": true,
+          "url": "go.php?id=27893704",
+          "evidenceUrl": "https://guangdiu.com/detail.php?id=27893704",
+          "services": [
+            "国补"
+          ],
+          "status": "部分待核实",
+          "_matchedTitle": "Apple AI笔记本/ 2025款 MacBook Air 13英寸M4(10+8核) 16G 256G星光色电脑Z1CV0003A 6483.94",
+          "_matchScore": 11
+        },
+        {
+          "platform": "天猫",
+          "storeType": "天猫自营",
+          "storeName": null,
+          "price": 9404,
+          "priceKind": "到手价",
+          "priceNote": "天猫国际官方直营此款目前活动售价9499元，参与立减95元优惠活动，下单1件，实付低至9404元。 可用券及活动：立减95元 ...",
+          "publishedAt": "2026-06-17",
+          "stale": true,
+          "url": "https://detail.tmall.com/item.htm?id=1006630130371",
+          "evidenceUrl": "https://guangdiu.com/detail.php?id=27964911",
+          "services": [],
+          "status": "部分待核实",
+          "_matchedTitle": "Apple 自营】Apple/苹果MacBook Air 13.6英寸 M4芯片 笔记本电脑 9404元",
+          "_matchScore": 8
+        }
+      ]
+    },
+    {
+      "laptopId": "hp-xingbook-pro-air-14-2026",
+      "searchKeyword": "星Book Pro Air 14",
+      "offers": [
+        {
+          "platform": "京东",
+          "storeType": "京东第三方",
+          "storeName": null,
+          "price": 6999,
+          "priceKind": "活动价",
+          "priceNote": "页面价 ¥6999.00学生党的实际需求是写论文、开网课、偶尔剪个小视频，Ultra 5 225H、16GB、512GB、核显够撑住这些。14英寸左右的机身塞 ...",
+          "publishedAt": "2026-11-16",
+          "stale": false,
+          "url": "go.php?id=30623037",
+          "evidenceUrl": "https://guangdiu.com/detail.php?id=30623037",
+          "services": [],
+          "status": "部分待核实",
+          "_matchedTitle": "惠普 星Book Pro Air 14 酷睿Ultra5 16GB+512GB 银色 笔记本电脑 6999元",
+          "_matchScore": 11
+        },
+        {
+          "platform": "苏宁易购",
+          "storeType": "未知",
+          "storeName": null,
+          "price": 5320,
+          "priceKind": "券后价",
+          "priceNote": "领券600 国补15% 购买方案 1领券满3000减100元 2026年11月11日13点40分起可用 2加购【星Book Pro Air 14酷睿2026笔记本(Ultra 5-225H 16G 512G】 1件 ...",
+          "publishedAt": "2026-11-11",
+          "stale": false,
+          "url": "go.php?id=30540064",
+          "evidenceUrl": "https://guangdiu.com/detail.php?id=30540064",
+          "services": [
+            "国补"
+          ],
+          "status": "部分待核实",
+          "_matchedTitle": "惠普 星Book Pro Air 14酷睿2026笔记本(Ultra 5-225H 16G 512G 5320.15元（需用券）",
+          "_matchScore": 11
+        }
+      ]
+    },
+    {
+      "laptopId": "xiaomi-book-pro-14-2026",
+      "searchKeyword": "小米Book Pro 14",
+      "offers": [
+        {
+          "platform": "京东",
+          "storeType": "京东自营",
+          "storeName": null,
+          "price": 8999,
+          "priceKind": "券后价",
+          "priceNote": "页面价 ¥9499.00；满4000减500元券 券后 ¥8999.00每天背着通勤的人最在意重量和续航，Ultra5-325、24GB、1TB、核显这个组合把两项都照顾到 ...",
+          "publishedAt": "2026-11-15",
+          "stale": false,
+          "url": "go.php?id=30609092",
+          "evidenceUrl": "https://guangdiu.com/detail.php?id=30609092",
+          "services": [],
+          "status": "部分待核实",
+          "_matchedTitle": "小米 MI）笔记本电脑Xiaomi Book Pro 14 酷睿Ultra5-325 3.1K高清屏 超轻薄全能本 雅",
+          "_matchScore": 11
+        },
+        {
+          "platform": "天猫",
+          "storeType": "天猫店铺",
+          "storeName": null,
+          "price": 7166,
+          "priceKind": "券后价",
+          "priceNote": "天猫超市此款目前活动售价10999元，下单领取88VIP 8000减1068膨胀券优惠券，参与立减1500元，补贴15%起减1424.85元优惠活动，下单1件， ...",
+          "publishedAt": "2026-11-05",
+          "stale": false,
+          "url": "https://detail.tmall.com/item.htm?id=1094864128737",
+          "evidenceUrl": "https://guangdiu.com/detail.php?id=30412830",
+          "services": [
+            "88VIP"
+          ],
+          "status": "部分待核实",
+          "_matchedTitle": "小米 Book Pro 14 2026款（Ultra5-325、24GB、1TB） 笔记本电脑 7166.35元（需用券）",
+          "_matchScore": 11
+        }
+      ]
+    },
+    {
+      "laptopId": "asus-vivobook-16-2026-ryzen",
+      "searchKeyword": "无畏16 16G 1T",
+      "offers": [
+        {
+          "platform": "京东",
+          "storeType": "京东自营",
+          "storeName": null,
+          "price": 7789,
+          "priceKind": "到手价",
+          "priceNote": "京东此款目前活动售价8289元，参与补贴15%起减500元优惠活动，下单1件，实付低至7789元。 可用券及活动：15%起减500元 ...",
+          "publishedAt": "2026-08-27",
+          "stale": true,
+          "url": "go.php?id=29188754",
+          "evidenceUrl": "https://guangdiu.com/detail.php?id=29188754",
+          "services": [],
+          "status": "部分待核实",
+          "_matchedTitle": "华硕 高性能AI轻薄 笔记本电脑套装+1号店鼠标 无畏16:U9-285H/16G+1T/2.5K 7045.65元",
+          "_matchScore": 6
+        }
+      ]
+    },
+    {
+      "laptopId": "huawei-matebook-14-harmony-2026",
+      "searchKeyword": "MateBook 14 鸿蒙版",
+      "offers": [
+        {
+          "platform": "京东",
+          "storeType": "京东自营",
+          "storeName": null,
+          "price": 5606,
+          "priceKind": "到手价",
+          "priceNote": "京东此款目前活动售价6599元，下单1件，国补后实付低至5605.75元。 购买方案 1加购【MateBook 14 鸿蒙版笔记本电脑 2.8K OLED触控屏 鸿 ...",
+          "publishedAt": "2026-11-12",
+          "stale": false,
+          "url": "go.php?id=30560623",
+          "evidenceUrl": "https://guangdiu.com/detail.php?id=30560623",
+          "services": [
+            "国补"
+          ],
+          "status": "部分待核实",
+          "_matchedTitle": "华为 MateBook 14 鸿蒙版笔记本电脑 2.8K OLED触控屏 鸿蒙AI 24GB 512GB深空灰 方键",
+          "_matchScore": 7.5
+        },
+        {
+          "platform": "唯品会",
+          "storeType": "未知",
+          "storeName": null,
+          "price": 5100,
+          "priceKind": "到手价",
+          "priceNote": "唯品会此款目前活动售价5999元，参与国家补贴15%优惠活动，下单1件，实付低至5100元。 购买方案 1活动国家补贴15% 2国补国家补贴 ...",
+          "publishedAt": "2026-11-14",
+          "stale": false,
+          "url": "go.php?id=30601838",
+          "evidenceUrl": "https://guangdiu.com/detail.php?id=30601838",
+          "services": [
+            "国补"
+          ],
+          "status": "部分待核实",
+          "_matchedTitle": "华为 MateBook 14 鸿蒙版 触屏 笔记本电脑 5100元",
+          "_matchScore": 4.5
+        }
+      ]
+    },
+    {
+      "laptopId": "asus-vivobook-pro-16-ryzen-2026",
+      "searchKeyword": "无畏Pro16 AI9",
+      "offers": [
+        {
+          "platform": "京东",
+          "storeType": "京东自营",
+          "storeName": null,
+          "price": 8199,
+          "priceKind": "活动价",
+          "priceNote": "价格不错，需要的看看 ...",
+          "publishedAt": "2026-05-01",
+          "stale": true,
+          "url": "go.php?id=27093205",
+          "evidenceUrl": "https://guangdiu.com/detail.php?id=27093205",
+          "services": [],
+          "status": "部分待核实",
+          "_matchedTitle": "华硕 无畏Pro16 锐龙版 2026 15% AI轻薄本笔记本电脑（锐龙AI9 H465 32G 1T 1100尼特O",
+          "_matchScore": 11
+        }
+      ]
+    },
+    {
+      "laptopId": "huawei-matebook-gt-14",
+      "searchKeyword": "MateBook GT 14",
+      "offers": [
+        {
+          "platform": "京东",
+          "storeType": "京东自营",
+          "storeName": null,
+          "price": 6499,
+          "priceKind": "到手价",
+          "priceNote": "京东该商品正在促销，使用商品详情页领取的满3000.0元减500.0元优惠券，最终到手价6499元/件，喜欢可入。 可用券及活动：满3000.0 ...",
+          "publishedAt": "2026-01-21",
+          "stale": true,
+          "url": "go.php?id=25544464",
+          "evidenceUrl": "https://guangdiu.com/detail.php?id=25544464",
+          "services": [],
+          "status": "部分待核实",
+          "_matchedTitle": "华为 MateBook GT 14 店铺预装Windows版 轻薄笔记本电脑 OLED悬浮屏 酷睿Ultra5 16G 1T",
+          "_matchScore": 11
+        },
+        {
+          "platform": "天猫",
+          "storeType": "天猫店铺",
+          "storeName": null,
+          "price": 5599,
+          "priceKind": "活动价",
+          "priceNote": "该价格商品规格：颜色分类：Linux版 皓月银 Ultra 5 125H；硬盘容量：1TB；内存容量：16GB；套餐类型：官方标配天猫商城该商品正在促 ...",
+          "publishedAt": "2025-12-05",
+          "stale": true,
+          "url": "https://detail.tmall.com/item.htm?id=811434080505",
+          "evidenceUrl": "https://guangdiu.com/detail.php?id=24820178",
+          "services": [],
+          "status": "部分待核实",
+          "_matchedTitle": "移动端：华为 HUAWEI MateBook GT 14 Ultra版 14.2英寸 全能本 5599.2元（淘金币可抵13",
+          "_matchScore": 11
+        }
+      ]
+    },
+    {
+      "laptopId": "redmi-book-pro-16-2025",
+      "searchKeyword": "Redmi Book Pro 16 225H",
+      "offers": [
+        {
+          "platform": "天猫",
+          "storeType": "天猫店铺",
+          "storeName": null,
+          "price": 5123,
+          "priceKind": "券后价",
+          "priceNote": "天猫精选此款目前活动售价6799元，下单领取5000减500家电数码消费券优惠券，参与百亿补贴补上加补减271.96元，补贴15%起减1019.85元优 ...",
+          "publishedAt": "2026-08-14",
+          "stale": true,
+          "url": "https://detail.tmall.com/item.htm?id=1071267130243",
+          "evidenceUrl": "https://guangdiu.com/detail.php?id=28954870",
+          "services": [],
+          "status": "部分待核实",
+          "_matchedTitle": "小米 REDMI Book Pro 16 2025 新品英特尔酷睿Ultra5-225H 32G 1TB 5122.98元（需用券）",
+          "_matchScore": 11
+        },
+        {
+          "platform": "京东",
+          "storeType": "京东第三方",
+          "storeName": null,
+          "price": 5669,
+          "priceKind": "到手价",
+          "priceNote": "京东此款目前活动售价6799元，下单领取满5000减500元优惠券，参与国家补贴优惠活动，下单1件，实付低至5669.1元。 可用券及活动： ...",
+          "publishedAt": "2026-08-13",
+          "stale": true,
+          "url": "go.php?id=28940591",
+          "evidenceUrl": "https://guangdiu.com/detail.php?id=28940591",
+          "services": [
+            "国补"
+          ],
+          "status": "部分待核实",
+          "_matchedTitle": "小米 REDMI Book Pro 16 全新酷睿Ultra 16英寸 2025款 Ultra5-225H/32G/1T/灰色 5669.1元（",
+          "_matchScore": 11
+        }
+      ]
+    },
+    {
+      "laptopId": "lenovo-xiaoxin-pro-14-2025-ryzen",
+      "searchKeyword": "小新Pro14 2025",
+      "offers": [
+        {
+          "platform": "京东",
+          "storeType": "京东自营",
+          "storeName": null,
+          "price": 4902,
+          "priceKind": "国补后",
+          "priceNote": "购买方案 1 店铺 联想京东自营旗舰店 ,商品面价6299元 2 领券 3C-政府补贴15%/20%--部分地区可领（领取链接） 页 ...",
+          "publishedAt": "2026-03-17",
+          "stale": true,
+          "url": "go.php?id=26388336",
+          "evidenceUrl": "https://guangdiu.com/detail.php?id=26388336",
+          "services": [
+            "国补",
+            "PLUS会员"
+          ],
+          "status": "部分待核实",
+          "_matchedTitle": "PLUS：联想 小新Pro14 2025款 锐龙7 H 255 120Hz 24G 1T 灰色 4902.39元（含国补）",
+          "_matchScore": 7.5
+        }
+      ]
+    },
+    {
+      "laptopId": "honor-magicbook-pro-14-2025",
+      "searchKeyword": "MagicBook Pro 14",
+      "offers": [
+        {
+          "platform": "天猫",
+          "storeType": "天猫店铺",
+          "storeName": null,
+          "price": 5831,
+          "priceKind": "活动价",
+          "priceNote": "原价 9299，店铺优惠1100元，官方限时补贴200元，88VIP专享9.5折，淘金币频道可抵扣238.61，领取满5000-500消费券，部分地区可领15%国补 ...",
+          "publishedAt": "2026-11-11",
+          "stale": false,
+          "url": "https://detail.tmall.com/item.htm?id=1094355032458",
+          "evidenceUrl": "https://guangdiu.com/detail.php?id=30536729",
+          "services": [
+            "国补",
+            "88VIP"
+          ],
+          "status": "部分待核实",
+          "_matchedTitle": "荣耀 MagicBook Pro 14（Ultra5 225H、32GB、1TB） 笔记本 5831.37元",
+          "_matchScore": 11
+        },
+        {
+          "platform": "京东",
+          "storeType": "京东自营",
+          "storeName": null,
+          "price": 5084,
+          "priceKind": "券后价",
+          "priceNote": "京东此款目前活动售价6599元，满1件减200元，下单领取满499减50元，晒单返100元现金，小程序下单领券9折优惠券，参与国家补贴15%减9 ...",
+          "publishedAt": "2026-10-15",
+          "stale": false,
+          "url": "go.php?id=30000677",
+          "evidenceUrl": "https://guangdiu.com/detail.php?id=30000677",
+          "services": [
+            "国补",
+            "晒单返现"
+          ],
+          "status": "部分待核实",
+          "_matchedTitle": "荣耀 MagicBook Pro 14 笔记本电脑高性能AI商务办公轻薄本（Ultra5-125H 16G+1T）3.1K",
+          "_matchScore": 9.5
+        }
+      ]
+    },
+    {
+      "laptopId": "hp-zhan66-2025-ultra-16",
+      "searchKeyword": "战66 255H",
+      "offers": [
+        {
+          "platform": "京东",
+          "storeType": "京东自营",
+          "storeName": null,
+          "price": 5494,
+          "priceKind": "券后价",
+          "priceNote": "京东此款目前活动售价7099元，下单领取满600.01减600元优惠券，参与国家补贴15%，PLUS专享立减35.49元优惠活动，下单1件，实付低至5493 ...",
+          "publishedAt": "2026-03-15",
+          "stale": true,
+          "url": "go.php?id=26354783",
+          "evidenceUrl": "https://guangdiu.com/detail.php?id=26354783",
+          "services": [
+            "国补",
+            "PLUS会员"
+          ],
+          "status": "部分待核实",
+          "_matchedTitle": "惠普 战66 14英寸2025高性能轻薄笔记本电脑 英特尔酷睿二代Ultra7 255H 32G 1T 2.5K",
+          "_matchScore": 9.5
+        }
+      ]
+    },
+    {
+      "laptopId": "microsoft-surface-pro-12",
+      "searchKeyword": "Surface Pro 12 512G",
+      "offers": [
+        {
+          "platform": "京东",
+          "storeType": "京东自营",
+          "storeName": null,
+          "price": 6279,
+          "priceKind": "到手价",
+          "priceNote": "京东此款目前活动售价7888元，参与补贴20%起减1577.6元优惠活动，下单1件，实付低至6278.85元。叠加活动：20%起减1577.6元 ...",
+          "publishedAt": "2025-07-29",
+          "stale": true,
+          "url": "go.php?id=22647127",
+          "evidenceUrl": "https://guangdiu.com/detail.php?id=22647127",
+          "services": [],
+          "status": "部分待核实",
+          "_matchedTitle": "Microsoft Surface Pro 12英寸 二合一笔记本电脑 20% 轻薄本 AI+PC 6278.85元",
+          "_matchScore": 4.5
+        }
+      ]
+    },
+    {
+      "laptopId": "asus-tianxuan6-ryzen-2026",
+      "searchKeyword": "天选6",
+      "offers": [
+        {
+          "platform": "京东",
+          "storeType": "京东自营",
+          "storeName": null,
+          "price": 11349,
+          "priceKind": "到手价",
+          "priceNote": "京东此款目前活动售价12999元，参与国家补贴15%减1500元，PLUS专享立减129.99元优惠活动，下单1件，实付低至11349.44元。 可用券及活 ...",
+          "publishedAt": "2026-10-22",
+          "stale": false,
+          "url": "go.php?id=30126536",
+          "evidenceUrl": "https://guangdiu.com/detail.php?id=30126536",
+          "services": [
+            "国补",
+            "PLUS会员"
+          ],
+          "status": "部分待核实",
+          "_matchedTitle": "华硕 天选6 Pro（锐龙9 8940HX、16GB、1TB、RTX5060、2.5K） 11349.44元",
+          "_matchScore": 8
+        },
+        {
+          "platform": "天猫",
+          "storeType": "天猫店铺",
+          "storeName": null,
+          "price": 9874,
+          "priceKind": "到手价",
+          "priceNote": "原价12499元，国家补贴1500元，喵速达直降1000元，叠加88VIP券后价9999元，淘金币可抵扣124.99元，实付到手价9874.01元。 ...",
+          "publishedAt": "2026-10-15",
+          "stale": false,
+          "url": "https://detail.tmall.com/item.htm?id=1076606467809",
+          "evidenceUrl": "https://guangdiu.com/detail.php?id=29996859",
+          "services": [
+            "国补",
+            "88VIP"
+          ],
+          "status": "部分待核实",
+          "_matchedTitle": "华硕 天选 6（锐龙 9 7845HX、16G、512G、RTX 5060、日蚀灰） 9999元（淘金币抵扣",
+          "_matchScore": 6.5
+        }
+      ]
+    },
+    {
+      "laptopId": "asus-tianxuan6-pro-intel-2026",
+      "searchKeyword": "天选6 Pro 京东自营",
+      "offers": [
+        {
+          "platform": "京东",
+          "storeType": "京东自营",
+          "storeName": null,
+          "price": 11349,
+          "priceKind": "到手价",
+          "priceNote": "京东此款目前活动售价12999元，参与国家补贴15%减1500元，PLUS专享立减129.99元优惠活动，下单1件，实付低至11349.44元。 可用券及活 ...",
+          "publishedAt": "2026-10-22",
+          "stale": false,
+          "url": "go.php?id=30126536",
+          "evidenceUrl": "https://guangdiu.com/detail.php?id=30126536",
+          "services": [
+            "国补",
+            "PLUS会员"
+          ],
+          "status": "部分待核实",
+          "_matchedTitle": "华硕 天选6 Pro（锐龙9 8940HX、16GB、1TB、RTX5060、2.5K） 11349.44元",
+          "_matchScore": 8
+        }
+      ]
+    },
+    {
+      "laptopId": "asus-tianxuan7-pro-intel-2026",
+      "searchKeyword": "天选7",
+      "offers": [
+        {
+          "platform": "京东",
+          "storeType": "京东第三方",
+          "storeName": null,
+          "price": 12599,
+          "priceKind": "到手价",
+          "priceNote": "京东此款目前活动售价14299元，下单领取满4980减200元优惠券，参与国家补贴减1500元优惠活动，下单1件，实付低至12599元。 购买方 ...",
+          "publishedAt": "2026-11-04",
+          "stale": false,
+          "url": "go.php?id=30390435",
+          "evidenceUrl": "https://guangdiu.com/detail.php?id=30390435",
+          "services": [
+            "国补"
+          ],
+          "status": "部分待核实",
+          "_matchedTitle": "华硕 天选7 Pro Ultra7-251HX RTX5060 日蚀灰 16GB+1TB 笔记本电脑 12599元（需用券）",
+          "_matchScore": 10
+        },
+        {
+          "platform": "天猫",
+          "storeType": "天猫店铺",
+          "storeName": null,
+          "price": 11799,
+          "priceKind": "活动价",
+          "priceNote": "原价15999元，喵速达直降1000元，88VIP专享500元，国家补贴1500元，限时限量补贴400元，家电数码消费券800元，叠加88VIP券后价11799元， ...",
+          "publishedAt": "2026-11-03",
+          "stale": false,
+          "url": "https://detail.tmall.com/item.htm?id=1078943868654",
+          "evidenceUrl": "https://guangdiu.com/detail.php?id=30367805",
+          "services": [
+            "国补",
+            "88VIP"
+          ],
+          "status": "部分待核实",
+          "_matchedTitle": "华硕 天选 7 Pro（Ultra 7 255HX、16G、1T、RTX 5060、魔幻青） 11799元",
+          "_matchScore": 10
+        }
+      ]
+    },
+    {
+      "laptopId": "hp-omen-pro-16-2026",
+      "searchKeyword": "暗影精灵 Pro 16",
+      "offers": [
+        {
+          "platform": "天猫",
+          "storeType": "天猫店铺",
+          "storeName": null,
+          "price": 10499,
+          "priceKind": "活动价",
+          "priceNote": "原价14199元，限时限量补贴300元，88VIP专享500元，喵速达直降600元，国家补贴1500元，家电数码消费券800元，叠加88VIP券后价10499元，实 ...",
+          "publishedAt": "2026-11-03",
+          "stale": false,
+          "url": "https://detail.tmall.com/item.htm?id=1073230947602",
+          "evidenceUrl": "https://guangdiu.com/detail.php?id=30367822",
+          "services": [
+            "国补",
+            "88VIP"
+          ],
+          "status": "部分待核实",
+          "_matchedTitle": "88VIP：惠普 暗影精灵 Pro 16（Ultra 7 255HX、16G、1T、RTX 5060） 10499元",
+          "_matchScore": 13
+        },
+        {
+          "platform": "京东",
+          "storeType": "京东自营",
+          "storeName": null,
+          "price": 10625,
+          "priceKind": "活动价",
+          "priceNote": "PLUS立减374元，国家补贴1500元。AMD锐龙9 9955HX处理器，RTX 5060显卡，16GB+1TB大存储。 购买方案 1活动PLUS立减374 国家补贴1500 2加购【 ...",
+          "publishedAt": "2026-10-29",
+          "stale": false,
+          "url": "go.php?id=30266485",
+          "evidenceUrl": "https://guangdiu.com/detail.php?id=30266485",
+          "services": [
+            "国补",
+            "PLUS会员"
+          ],
+          "status": "部分待核实",
+          "_matchedTitle": "PLUS会员：惠普 暗影精灵PRO 16游戏本 10625元包邮",
+          "_matchScore": 9.5
+        }
+      ]
+    },
+    {
+      "laptopId": "lenovo-legion-y9000p-2026",
+      "searchKeyword": "拯救者Y9000P",
+      "offers": [
+        {
+          "platform": "京东",
+          "storeType": "京东第三方",
+          "storeName": null,
+          "price": 15699,
+          "priceKind": "活动价",
+          "priceNote": "页面价 ¥15699.00i9 14900HX、16GB、1TB、RTX5060的组合决定了它在2K分辨率下能开高画质。射击类游戏要高帧，3A大作要画质，这套配置两头 ...",
+          "publishedAt": "2026-11-11",
+          "stale": false,
+          "url": "go.php?id=30532713",
+          "evidenceUrl": "https://guangdiu.com/detail.php?id=30532713",
+          "services": [],
+          "status": "部分待核实",
+          "_matchedTitle": "联想 拯救者Y9000P 2026 16英寸电竞游戏本笔记本电脑 i9 14900HX 16G 1T RTX5060黑 1569",
+          "_matchScore": 13
+        },
+        {
+          "platform": "天猫",
+          "storeType": "天猫店铺",
+          "storeName": null,
+          "price": 13499,
+          "priceKind": "到手价",
+          "priceNote": "原价24999元，88VIP专享500元，国家补贴1500元，喵速达直降8700元，家电数码消费券800元，叠加88VIP券后价13499元，实付到手价13499元。 ...",
+          "publishedAt": "2026-11-03",
+          "stale": false,
+          "url": "https://detail.tmall.com/item.htm?id=1080834394424",
+          "evidenceUrl": "https://guangdiu.com/detail.php?id=30367814",
+          "services": [
+            "国补",
+            "88VIP"
+          ],
+          "status": "部分待核实",
+          "_matchedTitle": "88VIP：联想 拯救者 Y9000P（i9-14900HX、16G、1T、RTX 5060、黑色） 13499元",
+          "_matchScore": 13
+        }
+      ]
+    },
+    {
+      "laptopId": "msi-titan-16-2026",
+      "searchKeyword": "泰坦16 2026",
+      "offers": [
+        {
+          "platform": "京东",
+          "storeType": "京东自营",
+          "storeName": null,
+          "price": 14099,
+          "priceKind": "到手价",
+          "priceNote": "PLUS立减 399.97元，国家补贴京东支付减1500元。到手价14099.03元 ...",
+          "publishedAt": "2026-07-14",
+          "stale": true,
+          "url": "go.php?id=28416462",
+          "evidenceUrl": "https://guangdiu.com/detail.php?id=28416462",
+          "services": [
+            "国补",
+            "PLUS会员"
+          ],
+          "status": "部分待核实",
+          "_matchedTitle": "微星 泰坦16锐龙版 2026 16英寸游戏本笔记本电脑(锐龙9-8940HX RTX5070Ti 16G 1T 2.5K/",
+          "_matchScore": 8
+        },
+        {
+          "platform": "天猫",
+          "storeType": "天猫店铺",
+          "storeName": null,
+          "price": 17999,
+          "priceKind": "到手价",
+          "priceNote": "天猫精选此款目前活动售价21999元，参与补贴15%起减2000元优惠活动，下单1件，实付低至17999元。 可用券及活动：15%起减2000元 ...",
+          "publishedAt": "2026-08-13",
+          "stale": true,
+          "url": "https://detail.tmall.com/item.htm?id=1036468372650",
+          "evidenceUrl": "https://guangdiu.com/detail.php?id=28942629",
+          "services": [],
+          "status": "部分待核实",
+          "_matchedTitle": "微星 泰坦16 Max 2026 16英寸高性能游戏本 黑色（U9-285HX、RTX5070Ti、2.5K 240Hz、32G",
+          "_matchScore": 5
+        }
+      ]
+    },
+    {
+      "laptopId": "lenovo-thinkbook-16p-2026",
+      "searchKeyword": "ThinkBook 16p",
+      "offers": [
+        {
+          "platform": "天猫",
+          "storeType": "天猫店铺",
+          "storeName": null,
+          "price": 13998,
+          "priceKind": "到手价",
+          "priceNote": "天猫精选此款商品现售价14699元，领满9699减700元券，实付到手价13998.11元，晒单另赠鼠标，支持3期免息。 ...",
+          "publishedAt": "2026-06-11",
+          "stale": true,
+          "url": "https://detail.tmall.com/item.htm?id=702449101571",
+          "evidenceUrl": "https://guangdiu.com/detail.php?id=27835761",
+          "services": [
+            "晒单返现",
+            "赠品"
+          ],
+          "status": "部分待核实",
+          "_matchedTitle": "联想 ThinkBook 16p（Ultra9-275HX、32G、1T、RTX5060） 13998.11元",
+          "_matchScore": 13
+        },
+        {
+          "platform": "京东",
+          "storeType": "京东自营",
+          "storeName": null,
+          "price": 18999,
+          "priceKind": "到手价",
+          "priceNote": "京东此款目前活动售价18999元，下单1件，实付低至18999元。 ...",
+          "publishedAt": "2026-07-23",
+          "stale": true,
+          "url": "go.php?id=28568883",
+          "evidenceUrl": "https://guangdiu.com/detail.php?id=28568883",
+          "services": [],
+          "status": "部分待核实",
+          "_matchedTitle": "ThinkPad ThinkBook 16p 酷睿Ultra 9 290HX RTX 4070 3.2K 32GB 512GB 笔记本电脑 18999元",
+          "_matchScore": 9.5
+        }
+      ]
+    },
+    {
+      "laptopId": "lenovo-yoga-pro-16-aura-2026",
+      "searchKeyword": "YOGA Pro 16",
+      "offers": [
+        {
+          "platform": "京东",
+          "storeType": "京东自营",
+          "storeName": null,
+          "price": 31004,
+          "priceKind": "到手价",
+          "priceNote": "京东现售价32999元，PLUS专享立减494.98元，支付另享政府补贴立减1500元，实付到手价31004.02元，购机另赠YOGA无线蓝牙耳机，学生认证 ...",
+          "publishedAt": "2026-07-24",
+          "stale": true,
+          "url": "go.php?id=28590620",
+          "evidenceUrl": "https://guangdiu.com/detail.php?id=28590620",
+          "services": [
+            "国补",
+            "学生认证",
+            "PLUS会员",
+            "赠品"
+          ],
+          "status": "部分待核实",
+          "_matchedTitle": "联想 YOGA Pro 16 Aura 笔记本电脑3代Ultra9 386H RTX5070 12G显存 64G 2T 3.2k 120Hz 触控 ",
+          "_matchScore": 11.5
+        }
+      ]
+    },
+    {
+      "laptopId": "dell-xps-13-2026",
+      "searchKeyword": "XPS 13 2026",
+      "offers": [],
+      "note": "本次刷新未匹配到同配置活动价，保留上次结果"
+    },
+    {
+      "laptopId": "thinkpad-x1-carbon-aura-2026",
+      "searchKeyword": "ThinkPad X1 Carbon",
+      "offers": [],
+      "note": "本次刷新未匹配到同配置活动价，保留上次结果"
+    },
+    {
+      "laptopId": "apple-macbook-air-15-2026",
+      "searchKeyword": "MacBook Air 15 M5",
+      "offers": [
+        {
+          "platform": "京东",
+          "storeType": "京东自营",
+          "storeName": null,
+          "price": 8949,
+          "priceKind": "国补后",
+          "priceNote": "购买方案 1 店铺 Apple产品京东自营旗舰店 ,商品面价11249元 2 领券 满8000减800（领取链接） 国补15%亲测 ...",
+          "publishedAt": "2026-11-02",
+          "stale": false,
+          "url": "go.php?id=30357116",
+          "evidenceUrl": "https://guangdiu.com/detail.php?id=30357116",
+          "services": [
+            "国补",
+            "学生认证"
+          ],
+          "status": "部分待核实",
+          "_matchedTitle": "教育优惠：苹果 MacBook Air 15英寸 M5 16GB 512GB 银色 8949元(国补叠加教育优惠)",
+          "_matchScore": 11
+        },
+        {
+          "platform": "天猫",
+          "storeType": "天猫店铺",
+          "storeName": null,
+          "price": 10199,
+          "priceKind": "活动价",
+          "priceNote": "该价格商品规格：颜色分类：银色；硬盘容量：512GB；内存容量：16GB天猫商城该商品正在促销，使用国家补贴 8.5 折起（减 1799.85 元 ...",
+          "publishedAt": "2026-10-27",
+          "stale": false,
+          "url": "https://detail.tmall.com/item.htm?id=1053693995276",
+          "evidenceUrl": "https://guangdiu.com/detail.php?id=30216396",
+          "services": [
+            "国补"
+          ],
+          "status": "部分待核实",
+          "_matchedTitle": "移动端：苹果 MacBook Air 15英寸 2026款笔记本电脑 M5 全新国行 10199.15元（淘金",
+          "_matchScore": 11
+        }
+      ]
+    },
+    {
+      "laptopId": "apple-macbook-pro-14-2026",
+      "searchKeyword": "MacBook Pro 14 M5 Pro",
+      "offers": [
+        {
+          "platform": "京东",
+          "storeType": "京东自营",
+          "storeName": null,
+          "price": 21499,
+          "priceKind": "到手价",
+          "priceNote": "京东现售价22999元，支付另享政府补贴立减1500元，实付到手价21499元。 购买方案 1加购【MacBook Pro (PROLED XDR 显示屏) M5 Pro 14寸 (15+16 ...",
+          "publishedAt": "2026-11-16",
+          "stale": false,
+          "url": "go.php?id=30631549",
+          "evidenceUrl": "https://guangdiu.com/detail.php?id=30631549",
+          "services": [
+            "国补"
+          ],
+          "status": "部分待核实",
+          "_matchedTitle": "苹果 MacBook Pro (PROLED XDR 显示屏) M5 Pro 14寸 (15+16核) 24G 1T深空黑色触摸屏笔记",
+          "_matchScore": 11
+        }
+      ]
+    }
+  ]
+}

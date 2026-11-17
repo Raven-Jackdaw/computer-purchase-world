@@ -1,0 +1,224 @@
+{
+  "band": 4,
+  "collectedAt": "2026-11-17",
+  "collector": "channel-band4",
+  "items": [
+    {
+      "laptopId": "asus-tianxuan6-ryzen-2026",
+      "searchKeyword": "天选6",
+      "offers": [],
+      "note": "逛丢仅检索到天选6 锐龙版 16G+512G 等低配活动（如 RTX5050/16G+512G 到手 8159.15 元、天猫 2026-11-03；锐龙版 16G+512G 券后 7904.15 元、天猫 2026-11-10），未见与机型一致的 R7 H260/16G/1TB/RTX5060 版本，配置不符未采用。"
+    },
+    {
+      "laptopId": "asus-tianxuan6-pro-intel-2026",
+      "searchKeyword": "天选6 Pro 京东自营",
+      "offers": [],
+      "note": "逛丢未见 U7-255HX/16G/1TB/RTX5060 同配活动：仅见天选6 Pro 锐龙版（R9-8940HX/16G/1T/RTX5060，11349.44 元、京东自营 2026-10-22）与酷睿 Ultra5-235HX/16G/512G 低配（约 9008~9299 元），配置不同未采用。"
+    },
+    {
+      "laptopId": "asus-tianxuan7-pro-intel-2026",
+      "searchKeyword": "天选7",
+      "offers": [],
+      "note": "逛丢见天选7 Pro U7-251HX/16G/1TB/RTX5060 版本：12781.52 元（京东自营 2026-10-30）、13999 元（京东自营 2026-11-14）；本机型为 16GB/512GB 存储，配置不一致未采用。"
+    },
+    {
+      "laptopId": "hp-omen-pro-16-2026",
+      "searchKeyword": "暗影精灵 Pro 16",
+      "offers": [
+        {
+          "platform": "天猫",
+          "storeType": "未知",
+          "storeName": "喵速达",
+          "price": 10499,
+          "priceKind": "券后价",
+          "priceNote": "天猫精选活动售价 16499 元，参与 88VIP 95 折、喵速达直降 2850 元、限时限量补贴 300 元、满 8000 减 800 元家电数码消费券、国家补贴 15%，叠加 88VIP 券后价 10499 元，实付到手价 10499 元",
+          "publishedAt": "2026-11-03",
+          "stale": false,
+          "url": "https://detail.tmall.com/item.htm?id=1073230947602",
+          "evidenceUrl": "https://guangdiu.com/detail.php?id=30367822",
+          "services": ["88VIP", "国补"],
+          "status": "已核实"
+        },
+        {
+          "platform": "天猫",
+          "storeType": "未知",
+          "storeName": "喵速达",
+          "price": 10050,
+          "priceKind": "到手价",
+          "priceNote": "原价 13499 元，限时补贴 49 元、国家补贴 1500 元、喵速达直降 300 元、限时限量补贴 300 元、88VIP 专享 500 元、家电数码消费券 800 元，叠加 88VIP 券后到手价 10050 元（淘金币抵扣可低至 9915.01 元）",
+          "publishedAt": "2026-11-03",
+          "stale": false,
+          "url": "https://detail.tmall.com/item.htm?id=1086567376831",
+          "evidenceUrl": "https://guangdiu.com/detail.php?id=30367757",
+          "services": ["88VIP", "国补"],
+          "status": "已核实"
+        }
+      ],
+      "note": "仅天猫侧检索到与机型一致的 Ultra 7 255HX/16G/1T/RTX5060 活动；京东自营同价位条目多为 R9-9955HX 或 RTX5070 版本，配置不符未采用。页面未明示店铺性质（描述出现「喵速达」），storeType 记「未知」。"
+    },
+    {
+      "laptopId": "lenovo-legion-y9000p-2026",
+      "searchKeyword": "拯救者Y9000P",
+      "offers": [
+        {
+          "platform": "京东",
+          "storeType": "京东自营",
+          "storeName": null,
+          "price": 14199,
+          "priceKind": "国补后",
+          "priceNote": "联想拯救者Y9000P 16英寸 黑色（i9-14900HX、RTX5060、16GB、1TB、2560*1600、240Hz）10 月 30 日 20 点活动，部分地区国补后到手价 14199 元",
+          "publishedAt": "2026-10-30",
+          "stale": false,
+          "url": "https://guangdiu.com/go.php?id=30285240",
+          "evidenceUrl": "https://guangdiu.com/detail.php?id=30285240",
+          "services": ["国补"],
+          "status": "已核实"
+        },
+        {
+          "platform": "天猫",
+          "storeType": "未知",
+          "storeName": "喵速达",
+          "price": 13499,
+          "priceKind": "券后价",
+          "priceNote": "原价 24999 元，88VIP 专享 500 元、国家补贴 1500 元、喵速达直降 8700 元、家电数码消费券 800 元，叠加 88VIP 券后价 13499 元，实付到手价 13499 元",
+          "publishedAt": "2026-11-03",
+          "stale": false,
+          "url": "https://detail.tmall.com/item.htm?id=1080834394424",
+          "evidenceUrl": "https://guangdiu.com/detail.php?id=30367814",
+          "services": ["88VIP", "国补"],
+          "status": "已核实"
+        }
+      ],
+      "note": "同配置（i9-14900HX/16G/1T/RTX5060）另有京东自营 2026-10-15 到手 14120.51 元（PLUS+国补）未重复收录；天猫店均标注「喵速达」，店铺性质页面未明示。"
+    },
+    {
+      "laptopId": "msi-titan-16-2026",
+      "searchKeyword": "泰坦16 2026",
+      "offers": [],
+      "note": "逛丢「泰坦16 2026」仅 11 条，均为泰坦16 Max 2026（U9-285HX/32G/1T/RTX5070Ti 17999 元、天猫 2026-10-13；U9-290HX Plus/RTX5090 34349 元、京东自营 2026-09-01）与泰坦16 锐龙版 2026（R9-8940HX/RTX5070Ti/16G/1T 14099.03 元、京东自营 2026-07-14），未见与机型一致的 Ultra 7 255HX/16G/1T/RTX5070Ti 版本。"
+    },
+    {
+      "laptopId": "lenovo-thinkbook-16p-2026",
+      "searchKeyword": "ThinkBook 16p",
+      "offers": [],
+      "note": "逛丢条目多为 U7-255HX/16G/1T/RTX5060（11595.02 元、京东自营 2026-11-11）或 R9-9955HX/32G/1T/RTX5070（17404.01 元、2026-09-22）等配置，未见与机型一致的 Ultra 9 290HX Plus/32GB/1TB/RTX5060 活动。"
+    },
+    {
+      "laptopId": "lenovo-yoga-pro-16-aura-2026",
+      "searchKeyword": "YOGA Pro 16",
+      "offers": [
+        {
+          "platform": "京东",
+          "storeType": "京东自营",
+          "storeName": null,
+          "price": 31004,
+          "priceKind": "到手价",
+          "priceNote": "京东现售价 32999 元，PLUS 专享立减 494.98 元，支付另享政府补贴立减 1500 元，实付到手价 31004.02 元，购机另赠 YOGA 无线蓝牙耳机、学生认证另享优惠",
+          "publishedAt": "2026-07-24",
+          "stale": true,
+          "url": "https://guangdiu.com/go.php?id=28590620",
+          "evidenceUrl": "https://guangdiu.com/detail.php?id=28590620",
+          "services": ["国补", "PLUS会员", "赠品", "学生认证"],
+          "status": "已核实"
+        }
+      ],
+      "note": "唯一匹配配置（3 代 Ultra9 386H/64G/2T/RTX5070 12G/3.2K 120Hz 触控）的活动发布于 2026-07-24，早于 2026-09-01，price 仍在售参考但已标 stale=true；9 月以来未见同配置新活动（其余条目为 2 代 Ultra9/RTX5060/32G 版本）。"
+    },
+    {
+      "laptopId": "dell-xps-13-2026",
+      "searchKeyword": "XPS 13 2026",
+      "offers": [],
+      "note": "逛丢搜索「XPS 13 2026」无任何结果（0 条），未收录报价。"
+    },
+    {
+      "laptopId": "thinkpad-x1-carbon-aura-2026",
+      "searchKeyword": "ThinkPad X1 Carbon",
+      "offers": [],
+      "note": "逛丢见 Ultra X7 358H/64G/1T/2.8K OLED 版本 25662.51 元（京东自营 2026-09-09）及 Ultra5 325/32G/1T 系列（约 14919 元），未见与机型一致的 64GB/2TB 存储版本，配置不一致未采用。"
+    },
+    {
+      "laptopId": "apple-macbook-air-15-2026",
+      "searchKeyword": "MacBook Air 15 M5",
+      "offers": [
+        {
+          "platform": "京东",
+          "storeType": "京东自营",
+          "storeName": "Apple产品京东自营旗舰店",
+          "price": 8949,
+          "priceKind": "到手价",
+          "priceNote": "教育优惠：MacBook Air 15 英寸 M5 16GB 512GB 银色，商品面价 11249 元，领满 8000 减 800 元券，叠加国补 15% 与教育优惠后 8949 元",
+          "publishedAt": "2026-11-02",
+          "stale": false,
+          "url": "https://guangdiu.com/go.php?id=30357116",
+          "evidenceUrl": "https://guangdiu.com/detail.php?id=30357116",
+          "services": ["国补", "学生认证"],
+          "status": "已核实"
+        },
+        {
+          "platform": "京东",
+          "storeType": "京东自营",
+          "storeName": "Apple产品京东自营旗舰店",
+          "price": 9639,
+          "priceKind": "国补后",
+          "priceNote": "MacBook Air 15 英寸 M5 16GB 512GB 银色，商品面价 11999 元，参与国家补贴 10%/15%/20%（部分地区可领），实付 9639.01 元",
+          "publishedAt": "2026-10-31",
+          "stale": false,
+          "url": "https://guangdiu.com/go.php?id=30300530",
+          "evidenceUrl": "https://guangdiu.com/detail.php?id=30300530",
+          "services": ["国补"],
+          "status": "已核实"
+        },
+        {
+          "platform": "天猫",
+          "storeType": "天猫官方旗舰店",
+          "storeName": null,
+          "price": 10199,
+          "priceKind": "国补后",
+          "priceNote": "天猫商城 MacBook Air 15 英寸 2026 款 M5 全新国行（银色/512GB/16GB），使用国家补贴 8.5 折起（减 1799.85 元），实付 10199.15 元（淘金币可抵 131.99 元起）",
+          "publishedAt": "2026-10-27",
+          "stale": false,
+          "url": "https://detail.tmall.com/item.htm?id=1053693995276",
+          "evidenceUrl": "https://guangdiu.com/detail.php?id=30216396",
+          "services": ["国补"],
+          "status": "已核实"
+        }
+      ],
+      "note": "以上均为 M5/16GB/512GB 同配版本；天猫条目为「天猫商城」页面，店铺名未单列。"
+    },
+    {
+      "laptopId": "apple-macbook-pro-14-2026",
+      "searchKeyword": "MacBook Pro 14 M5 Pro",
+      "offers": [
+        {
+          "platform": "京东",
+          "storeType": "京东自营",
+          "storeName": null,
+          "price": 21499,
+          "priceKind": "国补后",
+          "priceNote": "MacBook Pro（PROLED XDR 显示屏）M5 Pro 14 寸（15+16 核）24G 1T 深空黑色，京东现售价 22999 元，支付另享政府补贴立减 1500 元，实付到手价 21499 元，送虚拟机软件和 Kimi 会员",
+          "publishedAt": "2026-11-16",
+          "stale": false,
+          "url": "https://guangdiu.com/go.php?id=30631549",
+          "evidenceUrl": "https://guangdiu.com/detail.php?id=30631549",
+          "services": ["国补", "赠品"],
+          "status": "已核实"
+        },
+        {
+          "platform": "京东",
+          "storeType": "京东自营",
+          "storeName": null,
+          "price": 21414,
+          "priceKind": "到手价",
+          "priceNote": "MacBook Pro 14 英寸 PROLED XDR（M5 Pro 15+16 核、24GB、1TB），京东现售价 22999 元，领满 800 减 80 元 PLUS 券、满 500 减 5 元券，支付另享政府补贴立减 1500 元，实付到手价 21414 元",
+          "publishedAt": "2026-11-11",
+          "stale": false,
+          "url": "https://guangdiu.com/go.php?id=30541890",
+          "evidenceUrl": "https://guangdiu.com/detail.php?id=30541890",
+          "services": ["国补", "PLUS会员"],
+          "status": "已核实"
+        }
+      ],
+      "note": "同配置另有 2026-11-11 京东自营 21419 元等条目，仅保留最新两条；未检索到该机型天猫侧活动。"
+    }
+  ]
+}

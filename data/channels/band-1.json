@@ -1,0 +1,383 @@
+{
+  "band": 1,
+  "collectedAt": "2026-11-17",
+  "collector": "channel-band1",
+  "items": [
+    {
+      "laptopId": "honor-x16-2026-fight-edition",
+      "searchKeyword": "荣耀X16",
+      "offers": [
+        {
+          "platform": "京东",
+          "storeType": "京东自营",
+          "storeName": null,
+          "price": 4078.3,
+          "priceKind": "国补后",
+          "priceNote": "京东此款活动售价4798元，参与国家补贴减719.7元，实付低至4078.3元（照抄逛丢摘要）",
+          "publishedAt": "2026-10-13",
+          "stale": false,
+          "url": "https://guangdiu.com/go.php?id=29956650",
+          "evidenceUrl": "https://guangdiu.com/detail.php?id=29956650",
+          "services": ["国补"],
+          "status": "已核实"
+        },
+        {
+          "platform": "天猫",
+          "storeType": "天猫官方旗舰店",
+          "storeName": null,
+          "price": 4249.15,
+          "priceKind": "活动价",
+          "priceNote": "逛丢标题价4249.15元；摘要为商品规格：颜色分类【焕新版X16战斗版 2026】i5-13420H/16G/512G/高清护眼屏/星空灰，硬盘512GB、内存16GB，未给出进一步优惠明细",
+          "publishedAt": "2026-10-27",
+          "stale": false,
+          "url": "https://detail.tmall.com/item.htm?id=1084158813149",
+          "evidenceUrl": "https://guangdiu.com/detail.php?id=30231847",
+          "services": [],
+          "status": "部分待核实"
+        }
+      ],
+      "note": "按 i5-13420H/16GB/512GB 的 X16 2026 战斗版（焕新版）匹配；逛丢搜索结果页只显示平台、不显示店铺名，故 storeName 留空。价格与活动为快照，下单前以平台页面为准。"
+    },
+    {
+      "laptopId": "honor-x14-2025",
+      "searchKeyword": "荣耀X14 2025 1TB",
+      "offers": [
+        {
+          "platform": "京东",
+          "storeType": "京东自营",
+          "storeName": null,
+          "price": 3039.2,
+          "priceKind": "到手价",
+          "priceNote": "标题：国家补贴、限地区-荣耀 X14 2025战斗版 14英寸轻薄本（i5-13420H、16GB、1TB）；摘要：京东此款活动售价3799元，参与满1件打8折，下单1件，实付低至3039.2元（照抄逛丢摘要）",
+          "publishedAt": "2025-02-06",
+          "stale": true,
+          "url": "https://guangdiu.com/go.php?id=21285172",
+          "evidenceUrl": "https://guangdiu.com/detail.php?id=21285172",
+          "services": ["国补"],
+          "status": "已核实"
+        }
+      ],
+      "note": "唯一 CPU/内存/硬盘完全一致（i5-13420H/16GB/1TB）的收录，但为 2025-02-06 旧活动（stale=true），且标题为『X14 2025 战斗版』（护眼屏），与 band 数据标注的 2.8K 120Hz 屏有出入，跨代价格参考价值有限。同系列较新的 i5/16G/512G 版曾出现 2026-10 活动（京东自营 3802.92 元），但因存储规格与本机型 1TB 不符未收录。"
+    },
+    {
+      "laptopId": "honor-x14-plus-2025",
+      "searchKeyword": "荣耀X14 Plus",
+      "offers": [
+        {
+          "platform": "京东",
+          "storeType": "京东自营",
+          "storeName": null,
+          "price": 3738.3,
+          "priceKind": "国补后",
+          "priceNote": "京东现售价4398元，支付另享政府补贴立减659.7元，实付到手价3738.3元（照抄逛丢摘要）",
+          "publishedAt": "2026-08-20",
+          "stale": true,
+          "url": "https://guangdiu.com/go.php?id=29060279",
+          "evidenceUrl": "https://guangdiu.com/detail.php?id=29060279",
+          "services": ["国补"],
+          "status": "已核实"
+        },
+        {
+          "platform": "天猫",
+          "storeType": "天猫自营",
+          "storeName": null,
+          "price": 3356.65,
+          "priceKind": "券后价",
+          "priceNote": "天猫超市活动售价5299元，参与立减950元、国家补贴15%，用88VIP消费券4000-400，实付低至3356.65元（照抄逛丢摘要）",
+          "publishedAt": "2026-08-05",
+          "stale": true,
+          "url": "https://detail.tmall.com/item.htm?id=1021445238330",
+          "evidenceUrl": "https://guangdiu.com/detail.php?id=28794369",
+          "services": ["国补", "88VIP"],
+          "status": "已核实"
+        }
+      ],
+      "note": "两项活动均早于 2026-09-01，按规范标 stale=true（最新一次为 2026-08-20）。配置为 Core5-220H/16GB/512GB，与本机型一致。"
+    },
+    {
+      "laptopId": "honor-x16-plus-2025",
+      "searchKeyword": "荣耀X16 Plus",
+      "offers": [
+        {
+          "platform": "京东",
+          "storeType": "京东自营",
+          "storeName": null,
+          "price": 3919.2,
+          "priceKind": "国补后",
+          "priceNote": "京东此款活动售价4899元，参与补贴20%起减979.8元，实付低至3919.2元（照抄逛丢摘要）",
+          "publishedAt": "2025-09-21",
+          "stale": true,
+          "url": "https://guangdiu.com/go.php?id=23542891",
+          "evidenceUrl": "https://guangdiu.com/detail.php?id=23542891",
+          "services": ["国补"],
+          "status": "已核实"
+        }
+      ],
+      "note": "逛丢最新可匹配活动为 2025-09-21（早于 2026-09-01，stale=true）；天猫侧未检索到 16GB/1TB 版本活动。标题标注屏幕为 2.5K，与 band 数据 1920x1200 有出入，下单前请核对。"
+    },
+    {
+      "laptopId": "wiko-hi-matebook-d14-2025",
+      "searchKeyword": "MateBook D 14 210H",
+      "offers": [
+        {
+          "platform": "京东",
+          "storeType": "京东自营",
+          "storeName": null,
+          "price": 3824,
+          "priceKind": "国补后",
+          "priceNote": "京东此款活动售价4499元，下单1件，国补立减15%，实付低至3824元（照抄逛丢摘要；标题未完整显示存储容量，但4499元面价与 ZOL 参考价一致）",
+          "publishedAt": "2026-03-15",
+          "stale": true,
+          "url": "https://guangdiu.com/go.php?id=26353009",
+          "evidenceUrl": "https://guangdiu.com/detail.php?id=26353009",
+          "services": ["国补"],
+          "status": "部分待核实"
+        },
+        {
+          "platform": "天猫",
+          "storeType": "天猫官方旗舰店",
+          "storeName": null,
+          "price": 4499,
+          "priceKind": "到手价",
+          "priceNote": "天猫本款商品售价5999元，使用页面1500元券，最终到手仅需4499元；摘要规格为 Core 5-210H、16GB+1TB（照抄逛丢摘要）",
+          "publishedAt": "2025-07-07",
+          "stale": true,
+          "url": "https://detail.tmall.com/item.htm?id=915959043659",
+          "evidenceUrl": "https://guangdiu.com/detail.php?id=22309882",
+          "services": [],
+          "status": "已核实"
+        }
+      ],
+      "note": "两项活动均早于 2026-09-01，标 stale=true。天猫条目的 CPU/内存/硬盘规格与机型完全一致；京东条目为同价位同系列，标题存储容量被截断。"
+    },
+    {
+      "laptopId": "hp-zhan66-gen7-ryzen-14",
+      "searchKeyword": "战66 七代 锐龙",
+      "offers": [
+        {
+          "platform": "京东",
+          "storeType": "京东自营",
+          "storeName": null,
+          "price": 3380.68,
+          "priceKind": "到手价",
+          "priceNote": "京东此款活动售价4399元，领取满400.01减400元券，PLUS会员立减21.99元，参与国补15%，实付低至3380.68元（照抄逛丢摘要）",
+          "publishedAt": "2026-02-17",
+          "stale": true,
+          "url": "https://guangdiu.com/go.php?id=25970805",
+          "evidenceUrl": "https://guangdiu.com/detail.php?id=25970805",
+          "services": ["国补", "PLUS会员"],
+          "status": "已核实"
+        }
+      ],
+      "note": "2024 年老款，逛丢最新可匹配活动为 2026-02-17（早于 2026-09-01，stale=true）；标题为 14 英寸 R5/16G/512G 版本，与机型一致。"
+    },
+    {
+      "laptopId": "lenovo-xiaoxin-14-2025",
+      "searchKeyword": "小新14 24G",
+      "offers": [
+        {
+          "platform": "天猫",
+          "storeType": "天猫官方旗舰店",
+          "storeName": null,
+          "price": 4768.6,
+          "priceKind": "券后价",
+          "priceNote": "原价6299元，限时限量补贴200元+国家补贴830.40元+家电数码消费券500元，叠加88VIP券后价4768.60元，淘金币可抵扣62.99元、实付到手价可低至4705.61元（照抄逛丢摘要）",
+          "publishedAt": "2026-11-03",
+          "stale": false,
+          "url": "https://detail.tmall.com/item.htm?id=1086902420192",
+          "evidenceUrl": "https://guangdiu.com/detail.php?id=30367724",
+          "services": ["国补", "88VIP"],
+          "status": "已核实"
+        }
+      ],
+      "note": "天猫侧为唯一可匹配 i5/24GB/512GB 的活动（最新 2026-11-03）；京东自营未检索到该 24GB 内存版本活动。搜索结果页不显示店铺名，storeType 按天猫商品页归类。"
+    },
+    {
+      "laptopId": "hp-zhan66-2025-ryzen-14",
+      "searchKeyword": "惠普战66",
+      "offers": [
+        {
+          "platform": "京东",
+          "storeType": "京东自营",
+          "storeName": null,
+          "price": 5579.41,
+          "priceKind": "券后价",
+          "priceNote": "京东此款活动售价6999元，京东电脑直播间满3750元减300元券+立减34.99元+国补15%，实付低至5579.41元（照抄逛丢摘要）",
+          "publishedAt": "2026-11-06",
+          "stale": false,
+          "url": "https://guangdiu.com/go.php?id=30433348",
+          "evidenceUrl": "https://guangdiu.com/detail.php?id=30433348",
+          "services": ["国补"],
+          "status": "已核实"
+        }
+      ],
+      "note": "标题为 R7 H255/16GB/1TB + 2.5K 屏的版本，与 band 数据标注的 1920x1080 有出入（ZOL 参数页同时标注 100% DCI-P3，2.5K 可能性更大），下单前请核对屏幕规格。"
+    },
+    {
+      "laptopId": "lenovo-zhaoyang-x5-14-abp",
+      "searchKeyword": "昭阳X5-14",
+      "offers": [],
+      "note": "未检索到 R7-7730U/16GB/512GB 版本活动。逛丢仅收录：昭阳X5-14 Core Ultra5 版（2026-03-17 京东自营 4889元）、昭阳悦X5-14/16 R7 H255 版（2026-05-26 天猫 5937元），CPU 均与本机型不符，不收录。"
+    },
+    {
+      "laptopId": "machenike-chuangwuzhe-15n-ryzen",
+      "searchKeyword": "创物者15N 7735H",
+      "offers": [],
+      "note": "逛丢仅收录 2026 款创物者15N（锐龙 R7-8745HS/16GB/512GB，2026-08 天猫 3214.93元起），未检索到本机型 R7-7735H 版本活动，不收录。"
+    },
+    {
+      "laptopId": "machenike-shuguang-16-air",
+      "searchKeyword": "曙光16 Air",
+      "offers": [
+        {
+          "platform": "京东",
+          "storeType": "京东自营",
+          "storeName": "机械师京东自营官方旗舰店",
+          "price": 3799,
+          "priceKind": "活动价",
+          "priceNote": "优惠方案：京东自营 机械师京东自营官方旗舰店，商品面价3799元；标题价3799元包邮（晒单送100元E卡）（照抄逛丢摘要）",
+          "publishedAt": "2023-05-31",
+          "stale": true,
+          "url": "https://guangdiu.com/go.php?id=16052495",
+          "evidenceUrl": "https://guangdiu.com/detail.php?id=16052495",
+          "services": ["晒单返现"],
+          "status": "已核实"
+        }
+      ],
+      "note": "全站仅检索到 2023 年旧活动（远早于 2026-09-01，stale=true，当前价格参考价值有限）；标题 CPU 标注 R7-7735HS，与 band 数据 R7-7735H 略有差异，均为 8 核 Zen3+ 同代平台。"
+    },
+    {
+      "laptopId": "asus-poxiao-6-14",
+      "searchKeyword": "破晓6 1TB",
+      "offers": [
+        {
+          "platform": "京东",
+          "storeType": "京东自营",
+          "storeName": null,
+          "price": 4089,
+          "priceKind": "活动价",
+          "priceNote": "京东此款活动售价4089元，下单1件实付低至4089元（照抄逛丢摘要）；标题为『华硕 ASUS 破晓6 酷睿14英寸…（i5-13500H 16』被页面截断，容量未完整显示，4089元与 ZOL 参考价一致",
+          "publishedAt": "2025-02-27",
+          "stale": true,
+          "url": "https://guangdiu.com/go.php?id=21457431",
+          "evidenceUrl": "https://guangdiu.com/detail.php?id=21457431",
+          "services": [],
+          "status": "部分待核实"
+        }
+      ],
+      "note": "最新可匹配活动为 2025-02-27（早于 2026-09-01，stale=true）。逛丢 2026 年在售的破晓6 多为 Core5 210H / 幻金版 i5-13420H / 锐龙版，与 i5-13500H 配置不符，未采用。"
+    },
+    {
+      "laptopId": "honor-x16-ryzen-2026",
+      "searchKeyword": "荣耀X16 锐龙版 2026",
+      "offers": [
+        {
+          "platform": "京东",
+          "storeType": "京东自营",
+          "storeName": null,
+          "price": 4999,
+          "priceKind": "活动价",
+          "priceNote": "京东此款活动售价4999元，下单1件实付低至4999元（照抄逛丢摘要）",
+          "publishedAt": "2026-08-27",
+          "stale": true,
+          "url": "https://guangdiu.com/go.php?id=29172355",
+          "evidenceUrl": "https://guangdiu.com/detail.php?id=29172355",
+          "services": [],
+          "status": "已核实"
+        },
+        {
+          "platform": "京东",
+          "storeType": "京东自营",
+          "storeName": null,
+          "price": 4499,
+          "priceKind": "国补后",
+          "priceNote": "京东此款活动售价4999元，参与补贴15%起减500元，下单1件实付低至4499元（照抄逛丢摘要）",
+          "publishedAt": "2026-08-01",
+          "stale": true,
+          "url": "https://guangdiu.com/go.php?id=28735533",
+          "evidenceUrl": "https://guangdiu.com/detail.php?id=28735533",
+          "services": ["国补"],
+          "status": "已核实"
+        }
+      ],
+      "note": "逛丢最新活动为 2026-08-27，早于 2026-09-01，两条均标 stale=true；配置为 R7-7735HS/16GB/512GB，与机型一致。"
+    },
+    {
+      "laptopId": "acer-feifan-go-pro-2023",
+      "searchKeyword": "非凡Go Pro 13500H",
+      "offers": [
+        {
+          "platform": "京东",
+          "storeType": "京东第三方",
+          "storeName": null,
+          "price": 3314.15,
+          "priceKind": "券后价",
+          "priceNote": "京东此款活动售价4999元，满3980减300元券+首购立减800元+国补立减584.85元，实付低至3314.15元；标题为『非凡GO14 pro i5-13500H丨120hz 16G丨1TB PCI-e固态』（照抄逛丢摘要）",
+          "publishedAt": "2026-02-15",
+          "stale": true,
+          "url": "https://guangdiu.com/go.php?id=25952808",
+          "evidenceUrl": "https://guangdiu.com/detail.php?id=25952808",
+          "services": ["国补"],
+          "status": "已核实"
+        }
+      ],
+      "note": "非自营，为京东第三方店铺活动（页面无『自营』标记）；2026-02-24 有同价活动（标题价3314.15元）。早于 2026-09-01，stale=true。"
+    },
+    {
+      "laptopId": "hasee-zhanshen-s8-da5ns",
+      "searchKeyword": "战神S8 DA5NS",
+      "offers": [
+        {
+          "platform": "京东",
+          "storeType": "京东自营",
+          "storeName": null,
+          "price": 4448,
+          "priceKind": "券后价",
+          "priceNote": "京东目前活动售价4498元，叠加会员1200-50元券，实付4448元；摘要配置：i5-12450H、RTX3060 6G GDDR6 独显直连、16G DDR4 双通道、512GB SSD、144Hz（照抄逛丢摘要）",
+          "publishedAt": "2023-04-24",
+          "stale": true,
+          "url": "https://guangdiu.com/go.php?id=15745078",
+          "evidenceUrl": "https://guangdiu.com/detail.php?id=15745078",
+          "services": ["PLUS会员"],
+          "status": "已核实"
+        }
+      ],
+      "note": "唯一同型号同配置（S8-DA5NS / i5-12450H / 16GB / 512GB / RTX 3060 / 144Hz）收录为 2023 年旧活动（stale=true，launchDate 未标注），当前已无该 SKU 在售记录，价格仅供历史参考。"
+    },
+    {
+      "laptopId": "mechrevo-jiaolong-15k",
+      "searchKeyword": "蛟龙15K 7435H",
+      "offers": [
+        {
+          "platform": "天猫",
+          "storeType": "天猫官方旗舰店",
+          "storeName": null,
+          "price": 3359.2,
+          "priceKind": "页面价",
+          "priceNote": "逛丢标题价3359.2元；摘要为商品规格：颜色分类『蛟龙15K R7-7435H/RTX3050/144Hz/15.6』，硬盘512GB、内存16GB，天猫商城促销信息被截断",
+          "publishedAt": "2025-08-14",
+          "stale": true,
+          "url": "https://detail.tmall.com/item.htm?id=852729537606",
+          "evidenceUrl": "https://guangdiu.com/detail.php?id=22924471",
+          "services": ["国补"],
+          "status": "部分待核实"
+        },
+        {
+          "platform": "京东",
+          "storeType": "京东自营",
+          "storeName": null,
+          "price": 3439.2,
+          "priceKind": "国补后",
+          "priceNote": "京东此款活动售价4299元，参与补贴20%起减859.8元，下单1件实付低至3439.2元（照抄逛丢摘要）",
+          "publishedAt": "2025-07-12",
+          "stale": true,
+          "url": "https://guangdiu.com/go.php?id=22345281",
+          "evidenceUrl": "https://guangdiu.com/detail.php?id=22345281",
+          "services": ["国补"],
+          "status": "已核实"
+        }
+      ],
+      "note": "最新活动为 2025-08-14，早于 2026-09-01，均标 stale=true；配置 R7-7435H/RTX3050（满血）/16GB/512GB 与机型一致，与 band 数据中『2025-07 京东活动价4299元、国补后3439元』的记录吻合。"
+    }
+  ]
+}

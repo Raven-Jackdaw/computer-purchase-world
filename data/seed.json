@@ -1,0 +1,150 @@
+{
+  "band": 2,
+  "note": "开发用种子数据（非真实机型，仅用于验证界面与布局；正式产物会自动排除）",
+  "laptops": [
+    {
+      "id": "seed-01", "name": "示例·学徒轻薄本 A", "brand": "联想", "series": "示例", "category": "轻薄本",
+      "price": 4299, "priceNote": "开发用种子数据（非真实机型）", "launchDate": "2026-03",
+      "cpu": "Intel Core Ultra 5 125H", "cpuBrand": "Intel", "gpu": "Intel Arc Graphics", "gpuType": "核显",
+      "ram": "16GB LPDDR5X 7467", "ramGB": 16, "ramReplaceable": false,
+      "storage": "512GB PCIe 4.0 SSD", "storageGB": 512,
+      "screen": { "size": 14.0, "resolution": "1920x1200", "refresh": 60, "panel": "IPS", "colorGamut": "100% sRGB", "touch": false, "glossy": false },
+      "weightKg": 1.45, "thicknessMm": 16.9, "batteryWh": 60, "batteryLifeH": 8, "batteryLifeNote": "官方标称",
+      "ports": ["2x USB-C", "1x USB-A", "HDMI 1.4", "3.5mm"], "os": "Windows 11", "performanceReleaseW": 45,
+      "special": ["背光键盘"], "pros": ["16GB 内存应付日常够用", "1.45kg 便于通勤"], "cons": ["低刷新率屏幕", "板载内存不可升级"],
+      "sourceSpec": null, "sourcePrice": null, "status": "待核实"
+    },
+    {
+      "id": "seed-02", "name": "示例·学徒全能本 B", "brand": "荣耀", "series": "示例", "category": "全能本",
+      "price": 4499, "priceNote": "开发用种子数据（非真实机型）", "launchDate": "2026-02",
+      "cpu": "AMD Ryzen 7 8845HS", "cpuBrand": "AMD", "gpu": "Radeon 780M", "gpuType": "核显",
+      "ram": "16GB DDR5 5600", "ramGB": 16, "ramReplaceable": true,
+      "storage": "512GB PCIe 4.0 SSD", "storageGB": 512,
+      "screen": { "size": 15.6, "resolution": "2560x1600", "refresh": 120, "panel": "IPS", "colorGamut": "100% sRGB", "touch": false, "glossy": false },
+      "weightKg": 1.75, "thicknessMm": 18.2, "batteryWh": 70, "batteryLifeH": 7, "batteryLifeNote": "官方标称",
+      "ports": ["2x USB-C 全功能", "2x USB-A", "HDMI 2.1", "3.5mm"], "os": "Windows 11", "performanceReleaseW": 65,
+      "special": ["内存可扩展", "高刷"], "pros": ["120Hz 屏幕同价少见", "内存可自行升级"], "cons": ["1.75kg 略重", "核显不适合大型游戏"],
+      "sourceSpec": null, "sourcePrice": null, "status": "待核实"
+    },
+    {
+      "id": "seed-03", "name": "示例·主力轻薄本 C", "brand": "联想", "series": "示例", "category": "轻薄本",
+      "price": 5499, "priceNote": "开发用种子数据（非真实机型）", "launchDate": "2026-04",
+      "cpu": "Intel Core Ultra 7 258V", "cpuBrand": "Intel", "gpu": "Intel Arc 140V", "gpuType": "核显",
+      "ram": "32GB LPDDR5X 8533", "ramGB": 32, "ramReplaceable": false,
+      "storage": "1TB PCIe 4.0 SSD", "storageGB": 1024,
+      "screen": { "size": 14.0, "resolution": "2880x1800", "refresh": 120, "panel": "OLED", "colorGamut": "100% DCI-P3", "touch": false, "glossy": true },
+      "weightKg": 1.46, "thicknessMm": 14.9, "batteryWh": 75, "batteryLifeH": 12, "batteryLifeNote": "PCMark 10 现代办公",
+      "ports": ["2x USB-C 雷电4", "1x USB-A", "HDMI 2.1", "SD 读卡器", "3.5mm"], "os": "Windows 11", "performanceReleaseW": 45,
+      "special": ["OLED 高刷", "雷电4", "人脸识别"], "pros": ["2.8K OLED 高刷屏", "32GB 内存 + 1TB 硬盘", "接口齐全"],
+      "cons": ["板载内存不可升级", "OLED 镜面屏反光"], "sourceSpec": null, "sourcePrice": null, "status": "待核实"
+    },
+    {
+      "id": "seed-04", "name": "示例·主力全能本 D", "brand": "华硕", "series": "示例", "category": "全能本",
+      "price": 5999, "priceNote": "开发用种子数据（非真实机型）", "launchDate": "2026-03",
+      "cpu": "AMD Ryzen 7 8845H", "cpuBrand": "AMD", "gpu": "NVIDIA RTX 4050 Laptop 6GB", "gpuType": "入门独显",
+      "ram": "16GB DDR5 5600", "ramGB": 16, "ramReplaceable": true,
+      "storage": "512GB PCIe 4.0 SSD", "storageGB": 512,
+      "screen": { "size": 15.6, "resolution": "2560x1600", "refresh": 165, "panel": "IPS", "colorGamut": "100% sRGB", "touch": false, "glossy": false },
+      "weightKg": 2.1, "thicknessMm": 22.5, "batteryWh": 80, "batteryLifeH": 6, "batteryLifeNote": "官方标称",
+      "ports": ["2x USB-C", "2x USB-A", "HDMI 2.1", "网口", "3.5mm"], "os": "Windows 11", "performanceReleaseW": 130,
+      "special": ["独显直连", "高刷", "网口"], "pros": ["独显 + 高刷，剪辑与游戏兼顾", "接口丰富"], "cons": ["2.1kg 不便携", "16GB 内存偏紧"],
+      "sourceSpec": null, "sourcePrice": null, "status": "待核实"
+    },
+    {
+      "id": "seed-05", "name": "示例·主力游戏本 E", "brand": "机械革命", "series": "示例", "category": "游戏本",
+      "price": 5799, "priceNote": "开发用种子数据（非真实机型）", "launchDate": "2026-01",
+      "cpu": "Intel Core i7-13650HX", "cpuBrand": "Intel", "gpu": "NVIDIA RTX 4050 Laptop 6GB", "gpuType": "入门独显",
+      "ram": "16GB DDR5 4800", "ramGB": 16, "ramReplaceable": true,
+      "storage": "512GB PCIe 4.0 SSD", "storageGB": 512,
+      "screen": { "size": 15.6, "resolution": "1920x1080", "refresh": 144, "panel": "IPS", "colorGamut": "72% NTSC", "touch": false, "glossy": false },
+      "weightKg": 2.4, "thicknessMm": 25, "batteryWh": 60, "batteryLifeH": 5, "batteryLifeNote": "官方标称",
+      "ports": ["1x USB-C", "3x USB-A", "HDMI 2.1", "网口", "3.5mm"], "os": "Windows 11", "performanceReleaseW": 140,
+      "special": ["独显直连", "高刷", "网口"], "pros": ["同价位性能释放激进", "可扩展内存硬盘"], "cons": ["屏幕分辨率仅 1080p", "续航短、机身重"],
+      "sourceSpec": null, "sourcePrice": null, "status": "待核实"
+    },
+    {
+      "id": "seed-06", "name": "示例·二合一 F", "brand": "华为", "series": "示例", "category": "二合一",
+      "price": 5299, "priceNote": "开发用种子数据（非真实机型）", "launchDate": "2026-05",
+      "cpu": "Intel Core Ultra 5 125U", "cpuBrand": "Intel", "gpu": "Intel Graphics", "gpuType": "核显",
+      "ram": "16GB LPDDR5X 7467", "ramGB": 16, "ramReplaceable": false,
+      "storage": "512GB SSD", "storageGB": 512,
+      "screen": { "size": 13.3, "resolution": "2880x1920", "refresh": 60, "panel": "OLED", "colorGamut": "100% DCI-P3", "touch": true, "glossy": true },
+      "weightKg": 1.28, "thicknessMm": 12.5, "batteryWh": 60, "batteryLifeH": 10, "batteryLifeNote": "官方标称",
+      "ports": ["2x USB-C", "3.5mm"], "os": "Windows 11", "performanceReleaseW": 30,
+      "special": ["触控", "翻转", "OLED"], "pros": ["触控 + 手写，适合记笔记", "1.28kg 极轻"], "cons": ["接口少", "性能释放保守"],
+      "sourceSpec": null, "sourcePrice": null, "status": "待核实"
+    },
+    {
+      "id": "seed-07", "name": "示例·进阶游戏本 G", "brand": "联想", "series": "示例", "category": "游戏本",
+      "price": 6999, "priceNote": "开发用种子数据（非真实机型）", "launchDate": "2026-04",
+      "cpu": "Intel Core Ultra 7 255HX", "cpuBrand": "Intel", "gpu": "NVIDIA RTX 5060 Laptop 8GB", "gpuType": "甜品独显",
+      "ram": "16GB DDR5 5600", "ramGB": 16, "ramReplaceable": true,
+      "storage": "1TB PCIe 4.0 SSD", "storageGB": 1024,
+      "screen": { "size": 16.0, "resolution": "2560x1600", "refresh": 240, "panel": "IPS", "colorGamut": "100% sRGB", "touch": false, "glossy": false },
+      "weightKg": 2.5, "thicknessMm": 25, "batteryWh": 80, "batteryLifeH": 5, "batteryLifeNote": "官方标称",
+      "ports": ["2x USB-C 雷电4", "2x USB-A", "HDMI 2.1", "网口", "3.5mm"], "os": "Windows 11", "performanceReleaseW": 180,
+      "special": ["独显直连", "240Hz", "雷电4"], "pros": ["180W 性能释放", "240Hz 高刷屏"], "cons": ["2.5kg 笨重", "续航短"],
+      "sourceSpec": null, "sourcePrice": null, "status": "待核实"
+    },
+    {
+      "id": "seed-08", "name": "示例·创作本 H", "brand": "华硕", "series": "示例", "category": "创作本",
+      "price": 7499, "priceNote": "开发用种子数据（非真实机型）", "launchDate": "2026-06",
+      "cpu": "Intel Core Ultra 7 258V", "cpuBrand": "Intel", "gpu": "NVIDIA RTX 4050 Laptop 6GB", "gpuType": "入门独显",
+      "ram": "32GB LPDDR5X 8533", "ramGB": 32, "ramReplaceable": false,
+      "storage": "1TB PCIe 4.0 SSD", "storageGB": 1024,
+      "screen": { "size": 16.0, "resolution": "2880x1800", "refresh": 120, "panel": "OLED", "colorGamut": "100% DCI-P3", "touch": true, "glossy": true },
+      "weightKg": 1.9, "thicknessMm": 17.9, "batteryWh": 85, "batteryLifeH": 10, "batteryLifeNote": "官方标称",
+      "ports": ["2x USB-C 雷电4", "1x USB-A", "HDMI 2.1", "SD 读卡器", "3.5mm"], "os": "Windows 11", "performanceReleaseW": 70,
+      "special": ["OLED", "触控", "色准认证"], "pros": ["广色域 OLED 适合调色", "接口齐全、机身控制不错"], "cons": ["独显为入门级", "板载内存"],
+      "sourceSpec": null, "sourcePrice": null, "status": "待核实"
+    },
+    {
+      "id": "seed-09", "name": "示例·进阶轻薄本 I", "brand": "小米", "series": "示例", "category": "轻薄本",
+      "price": 6499, "priceNote": "开发用种子数据（非真实机型）", "launchDate": "2026-05",
+      "cpu": "AMD Ryzen AI 9 365", "cpuBrand": "AMD", "gpu": "Radeon 890M", "gpuType": "核显",
+      "ram": "32GB LPDDR5X 7500", "ramGB": 32, "ramReplaceable": false,
+      "storage": "1TB PCIe 4.0 SSD", "storageGB": 1024,
+      "screen": { "size": 14.0, "resolution": "2880x1800", "refresh": 120, "panel": "IPS", "colorGamut": "100% sRGB", "touch": false, "glossy": false },
+      "weightKg": 1.4, "thicknessMm": 15.0, "batteryWh": 75, "batteryLifeH": 12, "batteryLifeNote": "官方标称",
+      "ports": ["2x USB-C 全功能", "1x USB-A", "HDMI 2.1", "3.5mm"], "os": "Windows 11", "performanceReleaseW": 50,
+      "special": ["强核显", "120Hz", "长续航"], "pros": ["1.4kg 配 32GB 内存", "核显较强可轻度游戏"], "cons": ["板载内存", "续航与性能需二选一"],
+      "sourceSpec": null, "sourcePrice": null, "status": "待核实"
+    },
+    {
+      "id": "seed-10", "name": "示例·秘境游戏本 J", "brand": "联想", "series": "示例", "category": "游戏本",
+      "price": 9999, "priceNote": "开发用种子数据（非真实机型）", "launchDate": "2026-03",
+      "cpu": "Intel Core Ultra 9 275HX", "cpuBrand": "Intel", "gpu": "NVIDIA RTX 5070 Ti Laptop 12GB", "gpuType": "高端独显",
+      "ram": "32GB DDR5 6400", "ramGB": 32, "ramReplaceable": true,
+      "storage": "1TB PCIe 5.0 SSD", "storageGB": 1024,
+      "screen": { "size": 16.0, "resolution": "2560x1600", "refresh": 240, "panel": "IPS", "colorGamut": "100% sRGB", "touch": false, "glossy": false },
+      "weightKg": 2.6, "thicknessMm": 26, "batteryWh": 99, "batteryLifeH": 5, "batteryLifeNote": "官方标称",
+      "ports": ["2x USB-C 雷电4", "3x USB-A", "HDMI 2.1", "网口", "SD 读卡器", "3.5mm"], "os": "Windows 11", "performanceReleaseW": 230,
+      "special": ["独显直连", "240Hz", "雷电4"], "pros": ["230W 性能释放", "接口齐全"], "cons": ["2.6kg，插电才敢全开", "价格高"],
+      "sourceSpec": null, "sourcePrice": null, "status": "待核实"
+    },
+    {
+      "id": "seed-11", "name": "示例·秘境创作本 K", "brand": "苹果", "series": "示例", "category": "创作本",
+      "price": 11999, "priceNote": "开发用种子数据（非真实机型）", "launchDate": "2026-02",
+      "cpu": "Apple M4 Pro", "cpuBrand": "Apple", "gpu": "Apple M4 Pro 集成显卡", "gpuType": "核显",
+      "ram": "32GB 统一内存", "ramGB": 32, "ramReplaceable": false,
+      "storage": "1TB SSD", "storageGB": 1024,
+      "screen": { "size": 14.2, "resolution": "3024x1964", "refresh": 120, "panel": "MiniLED", "colorGamut": "100% DCI-P3", "touch": false, "glossy": true },
+      "weightKg": 1.6, "thicknessMm": 15.5, "batteryWh": 72, "batteryLifeH": 18, "batteryLifeNote": "官方标称",
+      "ports": ["3x USB-C 雷电4", "HDMI", "SD 读卡器", "MagSafe"], "os": "macOS", "performanceReleaseW": null,
+      "special": ["MiniLED", "长续航", "色准"], "pros": ["续航与屏幕素质顶尖", "剪辑性能强"], "cons": ["价格高、升级内存硬盘昂贵", "部分专业软件兼容性需确认"],
+      "sourceSpec": null, "sourcePrice": null, "status": "待核实"
+    },
+    {
+      "id": "seed-12", "name": "示例·秘境轻薄本 L", "brand": "华为", "series": "示例", "category": "轻薄本",
+      "price": 8999, "priceNote": "开发用种子数据（非真实机型）", "launchDate": "2026-07",
+      "cpu": "Intel Core Ultra 7 258V", "cpuBrand": "Intel", "gpu": "Intel Arc 140V", "gpuType": "核显",
+      "ram": "32GB LPDDR5X 8533", "ramGB": 32, "ramReplaceable": false,
+      "storage": "1TB PCIe 4.0 SSD", "storageGB": 1024,
+      "screen": { "size": 14.0, "resolution": "2880x1800", "refresh": 120, "panel": "OLED", "colorGamut": "100% DCI-P3", "touch": true, "glossy": true },
+      "weightKg": 1.2, "thicknessMm": 11.5, "batteryWh": 65, "batteryLifeH": 14, "batteryLifeNote": "官方标称",
+      "ports": ["2x USB-C 雷电4", "1x USB-A", "HDMI 2.1", "3.5mm"], "os": "Windows 11", "performanceReleaseW": 45,
+      "special": ["OLED", "触控", "超轻"], "pros": ["1.2kg 的 OLED 触控屏", "续航长"], "cons": ["接口少", "同价位性能不占优"],
+      "sourceSpec": null, "sourcePrice": null, "status": "待核实"
+    }
+  ]
+}
