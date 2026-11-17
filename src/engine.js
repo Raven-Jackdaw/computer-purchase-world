@@ -233,6 +233,11 @@
     return clamp(s, 0, 100);
   }
   for (const l of LAPTOPS) l.fitBase = baseFit(l);
+  // 游戏适配：有独显才算「能打游戏」，核显只算轻度
+  for (const l of LAPTOPS) {
+    l.gameReady = gpuTier(l) >= 2.2;
+    l.gameLevel = l.gameReady ? (l.gpuTier >= 3.6 ? '高画质可玩' : '主流可玩') : '仅轻度游戏';
+  }
 
   /* ---------- 渠道报价评分 ---------- */
   // 权威可靠（平台/店铺档位）+ 售后（服务标签）+ 价格竞争力 - 时效惩罚
@@ -503,7 +508,8 @@
   function rankList(bar, opts) {
     opts = opts || {};
     let list = LAPTOPS.slice();
-    if (opts.band && opts.band !== 'all') list = list.filter((l) => l.band === opts.band);
+    // 注意：UI/分享链接传来的是字符串 "1".."4"，这里必须统一类型比较
+    if (opts.band && opts.band !== 'all') list = list.filter((l) => String(l.band) === String(opts.band));
     if (opts.category && opts.category !== 'all') list = list.filter((l) => l.category === opts.category);
     const key = bar === 'overall' ? 'fitBase' : 'scores';
     if (bar !== 'overall') list.sort((a, b) => b.scores[bar] - a.scores[bar]);

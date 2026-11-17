@@ -65,6 +65,11 @@ for (const bar of ['overall', 'value', 'perf', 'battery']) {
   for (let i = 1; i < list.length; i++) if (key(list[i]) > key(list[i - 1]) + 1e-9) bad++;
   ok(bad === 0, `${bar} 榜严格降序（乱序 ${bad}）`);
 }
+// 价位/品类过滤（UI 传字符串，回归测试）
+const bandCounts = ['1', '2', '3', '4'].map((b) => W.rankList('overall', { band: b, category: 'all' }).length);
+ok(bandCounts.join(',') === '16,18,18,12', `排行榜价位过滤正确（各段 ${bandCounts.join('/')} 台）`);
+ok(W.rankList('overall', { band: 2, category: 'all' }).length === 18, '排行榜价位传数字也正确');
+ok(W.rankList('overall', { band: 'all', category: '游戏本' }).length === 18, '排行榜品类过滤正确（游戏本 18 台）');
 
 console.log('\n== 筛选语义 ==');
 const gpuMust = W.evaluate({ wall: { gpu: 'must' } });

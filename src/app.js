@@ -512,6 +512,7 @@
           h('span', { class: 'tag gold' }, l.brand),
           h('span', { class: 'tag' }, l.category || '笔记本'),
           h('span', { class: 'tag' }, W.CONTINENTS.find((c) => c.band === l.band)?.name || ''),
+          h('span', { class: 'tag ' + (l.gameReady ? 'olive' : 'blood') }, '游戏：' + (l.gameLevel || (l.gameReady ? '可玩' : '仅轻度'))),
           h('span', { class: 'tag ' + (l.status === '已核实' ? 'olive' : 'blood') }, l.status || '待核实')
         ),
         h('div', { class: 'detail-price' },
@@ -843,18 +844,48 @@
     (k.specBaseline || []).forEach(() => { });
 
     if ((k.specBaseline || []).length) {
-      const grid = h('div', { class: 'guide-grid' });
-      for (const s of k.specBaseline) {
-        const ms = s.minSpec || {};
-        const card = h('div', { class: 'panel rivets guide-card' },
-          h('h3', null, s.label),
-          h('p', { class: 'why' }, s.why || ''),
-          h('p', { class: 'spec-line', html: Object.entries(ms).map(([kk, vv]) => `<b>${esc(SPEC_NAMES[kk] || kk)}：</b>${esc(vv)}`).join('<br>') }),
-          s.upgradeHint ? h('p', { class: 'hint' }, '加钱优先：' + s.upgradeHint) : null
-        );
-        grid.append(card);
+      const GROUPS = [
+        ['humanities', '📖 文科 / 商科'],
+        ['cs', '⌨ 计算机编程'],
+        ['media', '🎬 数字媒体 / 剪辑'],
+        ['design', '🎨 设计 / 建模'],
+        ['gaming', '🎮 游戏'],
+        ['ai', '🧠 AI 深度学习'],
+        ['engineering', '📐 工程制图'],
+      ];
+      const nav = h('div', { class: 'guide-nav' });
+      const wrap = h('div', { class: 'guide-groups' });
+      for (const [gid, gname] of GROUPS) {
+        const items = k.specBaseline.filter((s) => String(s.id).split('-')[0] === gid);
+        if (!items.length) continue;
+        const subId = 'guide-g-' + gid;
+        nav.append(h('button', {
+          class: 'chip',
+          onClick: () => {
+            const el = document.getElementById(subId);
+            if (el) el.scrollIntoView({ behavior: 'smooth', block: 'start' });
+          },
+        }, gname));
+        wrap.append(h('div', { class: 'guide-subhead', id: subId },
+          h('h3', null, gname),
+          h('span', { class: 'guide-subcount' }, items.length + ' 档')
+        ));
+        const grid = h('div', { class: 'guide-grid' });
+        for (const s of items) {
+          const ms = s.minSpec || {};
+          const card = h('div', { class: 'panel rivets guide-card' },
+            h('h3', null, s.label),
+            h('p', { class: 'why' }, s.why || ''),
+            h('p', { class: 'spec-line', html: Object.entries(ms).map(([kk, vv]) => `<b>${esc(SPEC_NAMES[kk] || kk)}：</b>${esc(vv)}`).join('<br>') }),
+            s.upgradeHint ? h('p', { class: 'hint' }, '加钱优先：' + s.upgradeHint) : null
+          );
+          const rec = recStrip(s.id);
+          if (rec) card.append(rec);
+          grid.append(card);
+        }
+        wrap.append(grid);
       }
-      body.append(h('section', { class: 'guide-section' }, h('h2', null, '一、规格底线：各类专业该买什么'), grid));
+      body.append(h('section', { class: 'guide-section' }, h('h2', null, '一、规格底线：各类专业该买什么'), nav, wrap));
     }
 
     if ((k.pitfalls || []).length) {
@@ -945,6 +976,92 @@
     '国补 / 学生优惠能否叠加，结算页实付到底多少',
     '发票类型、发货方、退换货地址（异地寄修要算时间成本）',
   ];
+
+  // 选购须知每一档的“直接用”推荐规则（筛选条件 + 排序权重 + 预算上限）
+  const GUIDE_RECS = {
+    'humanities-basic': { wall: { band1: 'must', band2: 'must', w18: 'want', b8: 'want', oled: 'want' }, budgetMax: 6000,
+      weights: { perf: 0.08, portable: 0.3, screen: 0.18, battery: 0.24, expand: 0.08, value: 0.12 } },
+    'humanities-heavy': { wall: { m32: 'must', color: 'want', b8: 'want' }, budgetMax: 9000,
+      weights: { perf: 0.12, portable: 0.22, screen: 0.24, battery: 0.16, expand: 0.14, value: 0.12 } },
+    'cs-basic': { wall: { w18: 'want', m32: 'want', b8: 'want' }, budgetMax: 8000,
+      weights: { perf: 0.24, portable: 0.18, screen: 0.14, battery: 0.1, expand: 0.24, value: 0.1 } },
+    'cs-fullstack': { wall: { m32: 'must', tb: 'want', st1t: 'want' }, budgetMax: 12000,
+      weights: { perf: 0.26, portable: 0.12, screen: 0.14, battery: 0.08, expand: 0.28, value: 0.12 } },
+    'cs-ai': { wall: { gpu: 'must', m32: 'want', st1t: 'want' }, budgetMax: 20000,
+      weights: { perf: 0.32, portable: 0.04, screen: 0.18, battery: 0.06, expand: 0.24, value: 0.16 } },
+    'media-basic': { wall: { color: 'must', gpu: 'want', m32: 'want', b8: 'want' }, budgetMax: 8000,
+      weights: { perf: 0.2, portable: 0.16, screen: 0.26, battery: 0.1, expand: 0.14, value: 0.14 } },
+    'media-pro': { wall: { gpu: 'must', color: 'must', m32: 'want', st1t: 'want', k2: 'want' }, budgetMax: 12000,
+      weights: { perf: 0.28, portable: 0.05, screen: 0.33, battery: 0.07, expand: 0.17, value: 0.1 } },
+    'media-color': { wall: { gpu: 'must', color: 'must', m32: 'must', k2: 'want' }, budgetMax: 20000,
+      weights: { perf: 0.28, portable: 0.03, screen: 0.36, battery: 0.05, expand: 0.18, value: 0.1 } },
+    'design-2d': { wall: { color: 'must', m32: 'want', k2: 'want' }, budgetMax: 10000,
+      weights: { perf: 0.16, portable: 0.16, screen: 0.34, battery: 0.08, expand: 0.12, value: 0.14 } },
+    'design-3d': { wall: { gpu: 'must', color: 'must', k2: 'must', m32: 'want' }, budgetMax: 15000,
+      weights: { perf: 0.3, portable: 0.04, screen: 0.32, battery: 0.06, expand: 0.18, value: 0.1 } },
+    'gaming-3a': { wall: { gpu: 'must', hz: 'must', m32: 'want' }, budgetMax: 20000,
+      weights: { perf: 0.42, portable: 0.03, screen: 0.24, battery: 0.05, expand: 0.12, value: 0.14 } },
+    'gaming-esports': { wall: { gpu: 'must', hz: 'must' }, budgetMax: 12000,
+      weights: { perf: 0.34, portable: 0.05, screen: 0.3, battery: 0.05, expand: 0.12, value: 0.14 } },
+    'gaming-stream': { wall: { gpu: 'must', m32: 'want', lan: 'want' }, budgetMax: 15000,
+      weights: { perf: 0.32, portable: 0.03, screen: 0.22, battery: 0.05, expand: 0.2, value: 0.18 } },
+    'ai-infer': { wall: { gpu: 'must', m32: 'want' }, budgetMax: 15000,
+      weights: { perf: 0.3, portable: 0.04, screen: 0.18, battery: 0.06, expand: 0.22, value: 0.2 } },
+    'ai-finetune': { wall: { gpu: 'must', m32: 'must', st1t: 'want' }, budgetMax: 25000,
+      weights: { perf: 0.36, portable: 0.02, screen: 0.2, battery: 0.04, expand: 0.22, value: 0.16 } },
+    'engineering-2d': { wall: { w18: 'want', b8: 'want', color: 'want' }, budgetMax: 7000,
+      weights: { perf: 0.16, portable: 0.26, screen: 0.2, battery: 0.18, expand: 0.12, value: 0.08 } },
+    'engineering-3d': { wall: { gpu: 'want', m32: 'want', k2: 'want', lan: 'want' }, budgetMax: 12000,
+      weights: { perf: 0.28, portable: 0.08, screen: 0.28, battery: 0.08, expand: 0.18, value: 0.1 } },
+  };
+
+  function recStrip(specId) {
+    const rule = GUIDE_RECS[specId];
+    if (!rule) return null;
+    let ev;
+    try {
+      ev = W.evaluate({ wall: rule.wall || {}, weights: rule.weights || null, maxPrice: rule.budgetMax || 0 });
+    } catch (e) { return null; }
+    const list = W.sortResults(ev.results, rule.sort || 'fit').slice(0, rule.limit || 3);
+    if (!list.length) return null;
+    const strip = h('div', { class: 'rec-strip' });
+    for (const { l, fit } of list) {
+      const card = h('div', { class: 'rec-card', title: l.name, onClick: () => openDetail(l.id) });
+      const cv = h('canvas');
+      const nm = splitName(l.name);
+      card.append(
+        cv,
+        h('div', { class: 'rec-name' }, nm.base),
+        h('div', { class: 'rec-fit' }, '匹配 ' + Math.round(fit)),
+        h('div', { class: 'rec-price' }, '参考 ' + fmt(l.price))
+      );
+      if (l.bestOffer) card.append(h('div', { class: 'rec-channel' }, l.bestOffer.storeType + ' ' + fmt(l.bestOffer.price)));
+      requestAnimationFrame(() => drawCanvas(cv, l, 40, 50));
+      strip.append(card);
+    }
+    return h('div', { class: 'rec-block' },
+      h('div', { class: 'rec-head' },
+        h('span', null, '这一档直接看'),
+        h('em', null, rule.budgetMax ? '预算 ≤ ' + fmt(rule.budgetMax) : '按匹配度')
+      ),
+      strip,
+      h('button', { class: 'rec-all btn ghost small', onClick: () => applyRecToWorld(rule) }, '在世界里看这一档全部 →')
+    );
+  }
+
+  function applyRecToWorld(rule) {
+    state.wall = {};
+    for (const k in (rule.wall || {})) state.wall[k] = rule.wall[k];
+    state.budgetMax = rule.budgetMax || null;
+    state.preset = null;
+    store.set('preset', null);
+    store.set('budgetMax', state.budgetMax);
+    saveWall();
+    renderFilters();
+    setView('world');
+    renderWorld();
+    toast('已按这一档的条件筛好，可在世界页继续微调');
+  }
 
   /* ================= 视图 ================= */
   function setView(v) {

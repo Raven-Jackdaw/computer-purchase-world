@@ -892,6 +892,49 @@ html[data-theme="light"] .chip[data-state="band"] { color: #fdf6e6; }
   *, *::before, *::after { animation-duration: .001ms !important; transition-duration: .001ms !important; }
 }
 
+/* 选购须知：专业分组 */
+.guide-nav { display: flex; flex-wrap: wrap; gap: 6px; margin: 2px 0 12px; }
+.guide-nav .chip { cursor: pointer; }
+.guide-groups { display: flex; flex-direction: column; gap: 2px; }
+.guide-subhead {
+  display: flex; align-items: baseline; gap: 10px;
+  margin: 20px 0 10px; padding-bottom: 6px;
+  border-bottom: 1px dashed var(--line);
+}
+.guide-groups .guide-subhead:first-child { margin-top: 2px; }
+.guide-subhead h3 {
+  margin: 0; font-family: var(--serif); font-size: 15px;
+  letter-spacing: .1em; color: var(--gold);
+}
+.guide-subcount { font-size: 10.5px; color: var(--ink-faint); letter-spacing: .06em; }
+
+/* 选购须知：每档推荐机型缩略窗 */
+.rec-block { margin-top: 12px; padding-top: 10px; border-top: 1px dashed var(--line); }
+.rec-head { display: flex; align-items: center; gap: 8px; margin-bottom: 8px; font-size: 10.5px; letter-spacing: .1em; color: var(--ink-faint); }
+.rec-head em { font-style: normal; margin-left: auto; font-size: 9.5px; opacity: .85; color: var(--gold-dim); }
+.rec-strip { display: flex; gap: 7px; overflow-x: auto; padding-bottom: 4px; scrollbar-width: thin; scrollbar-color: var(--line) transparent; }
+.rec-strip::-webkit-scrollbar { height: 6px; }
+.rec-strip::-webkit-scrollbar-thumb { background: var(--line); border-radius: 3px; }
+.rec-card {
+  flex: 0 0 96px; min-width: 0; padding: 7px 4px 6px;
+  background: var(--panel); border: 1px solid var(--line); border-radius: 2px;
+  text-align: center; cursor: pointer;
+  transition: transform .15s, border-color .15s, box-shadow .15s;
+}
+.rec-card:hover { transform: translateY(-2px); border-color: var(--gold-dim); box-shadow: 0 8px 18px rgba(0, 0, 0, .45); }
+.rec-card canvas { width: 36px; height: 44px; }
+.rec-name {
+  margin-top: 2px; font-size: 9.5px; line-height: 1.35; color: var(--ink);
+  display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; min-height: 26px;
+}
+.rec-fit { margin-top: 2px; font-size: 8.5px; color: var(--olive-bright); font-family: var(--mono); }
+.rec-price { margin-top: 1px; font-size: 9.5px; color: var(--gold); font-family: var(--mono); }
+.rec-channel {
+  margin-top: 1px; font-size: 8.5px; color: var(--olive-bright); font-family: var(--mono);
+  white-space: nowrap; overflow: hidden; text-overflow: ellipsis;
+}
+.rec-all { width: 100%; margin-top: 8px; }
+
 /* ================= 移动端修补 ================= */
 html, body { overflow-x: hidden; }
 /* 网格子项允许收缩，否则长型号名会把卡片顶出屏幕 */
